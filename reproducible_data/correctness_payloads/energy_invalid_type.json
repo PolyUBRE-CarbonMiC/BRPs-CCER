@@ -1,0 +1,10 @@
+[
+  {
+    "unit_id": 1,
+    "detection_time": "2025.11.15",
+    "time_period": "2025.10.15-2025.11.15",
+    "energy_type": "steam",
+    "energy_consumption": 24.0,
+    "baseline": 40
+  }
+]

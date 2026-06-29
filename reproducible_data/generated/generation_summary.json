@@ -1,0 +1,332 @@
+[
+  {
+    "buy_amount": {
+      "count": 20,
+      "sum": 133500,
+      "mean": 6675
+    },
+    "normal_sell_amount": {
+      "count": 20,
+      "sum": 100400,
+      "mean": 5020
+    },
+    "small_sell_amount": {
+      "count": 60,
+      "sum": 29200,
+      "mean": 486.6666666666667
+    },
+    "all_price_mean": 68.036651193326,
+    "all_price_population_sd": 0.3008549003708709,
+    "all_price_min": 67.0,
+    "all_price_max": 68.5652107053,
+    "n_total": 100,
+    "n_buy": 20,
+    "n_normal_sell": 20,
+    "n_small_sell": 60,
+    "buy_sum": 133500,
+    "sell_sum": 129600,
+    "buy_minus_sell": 3900,
+    "attempts_used": 2,
+    "seed_used": 42
+  },
+  {
+    "buy_amount": {
+      "count": 60,
+      "sum": 407000,
+      "mean": 6783.333333333333
+    },
+    "normal_sell_amount": {
+      "count": 60,
+      "sum": 295200,
+      "mean": 4920
+    },
+    "small_sell_amount": {
+      "count": 180,
+      "sum": 87900,
+      "mean": 488.3333333333333
+    },
+    "all_price_mean": 67.99381883921033,
+    "all_price_population_sd": 0.30922343795084084,
+    "all_price_min": 67.1125011965,
+    "all_price_max": 68.9225010456,
+    "n_total": 300,
+    "n_buy": 60,
+    "n_normal_sell": 60,
+    "n_small_sell": 180,
+    "buy_sum": 407000,
+    "sell_sum": 383100,
+    "buy_minus_sell": 23900,
+    "attempts_used": 4,
+    "seed_used": 1042
+  },
+  {
+    "buy_amount": {
+      "count": 100,
+      "sum": 652500,
+      "mean": 6525
+    },
+    "normal_sell_amount": {
+      "count": 100,
+      "sum": 491200,
+      "mean": 4912
+    },
+    "small_sell_amount": {
+      "count": 300,
+      "sum": 148600,
+      "mean": 495.3333333333333
+    },
+    "all_price_mean": 68.013379904184,
+    "all_price_population_sd": 0.3038237448531249,
+    "all_price_min": 67.2414978845,
+    "all_price_max": 68.9178064366,
+    "n_total": 500,
+    "n_buy": 100,
+    "n_normal_sell": 100,
+    "n_small_sell": 300,
+    "buy_sum": 652500,
+    "sell_sum": 639800,
+    "buy_minus_sell": 12700,
+    "attempts_used": 1,
+    "seed_used": 2042
+  },
+  {
+    "buy_amount": {
+      "count": 140,
+      "sum": 908500,
+      "mean": 6489.285714285715
+    },
+    "normal_sell_amount": {
+      "count": 140,
+      "sum": 689600,
+      "mean": 4925.714285714285
+    },
+    "small_sell_amount": {
+      "count": 420,
+      "sum": 210000,
+      "mean": 500
+    },
+    "all_price_mean": 67.990352128968,
+    "all_price_population_sd": 0.2999378540320493,
+    "all_price_min": 67.1658689894,
+    "all_price_max": 68.8752974973,
+    "n_total": 700,
+    "n_buy": 140,
+    "n_normal_sell": 140,
+    "n_small_sell": 420,
+    "buy_sum": 908500,
+    "sell_sum": 899600,
+    "buy_minus_sell": 8900,
+    "attempts_used": 2,
+    "seed_used": 3042
+  },
+  {
+    "buy_amount": {
+      "count": 200,
+      "sum": 1326500,
+      "mean": 6632.5
+    },
+    "normal_sell_amount": {
+      "count": 200,
+      "sum": 999200,
+      "mean": 4996
+    },
+    "small_sell_amount": {
+      "count": 600,
+      "sum": 295400,
+      "mean": 492.3333333333333
+    },
+    "all_price_mean": 68.00699480739,
+    "all_price_population_sd": 0.3069270663124582,
+    "all_price_min": 67.1412063888,
+    "all_price_max": 69.0,
+    "n_total": 1000,
+    "n_buy": 200,
+    "n_normal_sell": 200,
+    "n_small_sell": 600,
+    "buy_sum": 1326500,
+    "sell_sum": 1294600,
+    "buy_minus_sell": 31900,
+    "attempts_used": 1,
+    "seed_used": 4042
+  },
+  {
+    "buy_amount": {
+      "count": 260,
+      "sum": 1713000,
+      "mean": 6588.461538461538
+    },
+    "normal_sell_amount": {
+      "count": 260,
+      "sum": 1321200,
+      "mean": 5081.538461538462
+    },
+    "small_sell_amount": {
+      "count": 780,
+      "sum": 386500,
+      "mean": 495.5128205128205
+    },
+    "all_price_mean": 67.99257308058169,
+    "all_price_population_sd": 0.3034296664630116,
+    "all_price_min": 67.0346958634,
+    "all_price_max": 69.0,
+    "n_total": 1300,
+    "n_buy": 260,
+    "n_normal_sell": 260,
+    "n_small_sell": 780,
+    "buy_sum": 1713000,
+    "sell_sum": 1707700,
+    "buy_minus_sell": 5300,
+    "attempts_used": 3,
+    "seed_used": 5042
+  },
+  {
+    "buy_amount": {
+      "count": 300,
+      "sum": 1975000,
+      "mean": 6583.333333333333
+    },
+    "normal_sell_amount": {
+      "count": 300,
+      "sum": 1488800,
+      "mean": 4962.666666666667
+    },
+    "small_sell_amount": {
+      "count": 900,
+      "sum": 447600,
+      "mean": 497.3333333333333
+    },
+    "all_price_mean": 68.0077319817358,
+    "all_price_population_sd": 0.29975958713331863,
+    "all_price_min": 67.1305769258,
+    "all_price_max": 68.9199708298,
+    "n_total": 1500,
+    "n_buy": 300,
+    "n_normal_sell": 300,
+    "n_small_sell": 900,
+    "buy_sum": 1975000,
+    "sell_sum": 1936400,
+    "buy_minus_sell": 38600,
+    "attempts_used": 4,
+    "seed_used": 6042
+  },
+  {
+    "buy_amount": {
+      "count": 360,
+      "sum": 2358500,
+      "mean": 6551.388888888889
+    },
+    "normal_sell_amount": {
+      "count": 360,
+      "sum": 1806800,
+      "mean": 5018.888888888889
+    },
+    "small_sell_amount": {
+      "count": 1080,
+      "sum": 549400,
+      "mean": 508.7037037037037
+    },
+    "all_price_mean": 67.99475451178878,
+    "all_price_population_sd": 0.30183475521465974,
+    "all_price_min": 67.0014254051,
+    "all_price_max": 69.0,
+    "n_total": 1800,
+    "n_buy": 360,
+    "n_normal_sell": 360,
+    "n_small_sell": 1080,
+    "buy_sum": 2358500,
+    "sell_sum": 2356200,
+    "buy_minus_sell": 2300,
+    "attempts_used": 1,
+    "seed_used": 7042
+  },
+  {
+    "buy_amount": {
+      "count": 400,
+      "sum": 2659000,
+      "mean": 6647.5
+    },
+    "normal_sell_amount": {
+      "count": 400,
+      "sum": 1991200,
+      "mean": 4978
+    },
+    "small_sell_amount": {
+      "count": 1200,
+      "sum": 600900,
+      "mean": 500.75
+    },
+    "all_price_mean": 67.9969052242971,
+    "all_price_population_sd": 0.2967652338179152,
+    "all_price_min": 67.0636524982,
+    "all_price_max": 69.0,
+    "n_total": 2000,
+    "n_buy": 400,
+    "n_normal_sell": 400,
+    "n_small_sell": 1200,
+    "buy_sum": 2659000,
+    "sell_sum": 2592100,
+    "buy_minus_sell": 66900,
+    "attempts_used": 1,
+    "seed_used": 8042
+  },
+  {
+    "buy_amount": {
+      "count": 460,
+      "sum": 3021500,
+      "mean": 6568.478260869565
+    },
+    "normal_sell_amount": {
+      "count": 460,
+      "sum": 2293600,
+      "mean": 4986.086956521739
+    },
+    "small_sell_amount": {
+      "count": 1380,
+      "sum": 693300,
+      "mean": 502.39130434782606
+    },
+    "all_price_mean": 68.00563783206765,
+    "all_price_population_sd": 0.30089729146317234,
+    "all_price_min": 67.0,
+    "all_price_max": 69.0,
+    "n_total": 2300,
+    "n_buy": 460,
+    "n_normal_sell": 460,
+    "n_small_sell": 1380,
+    "buy_sum": 3021500,
+    "sell_sum": 2986900,
+    "buy_minus_sell": 34600,
+    "attempts_used": 1,
+    "seed_used": 9042
+  },
+  {
+    "buy_amount": {
+      "count": 500,
+      "sum": 3259500,
+      "mean": 6519
+    },
+    "normal_sell_amount": {
+      "count": 500,
+      "sum": 2489200,
+      "mean": 4978.4
+    },
+    "small_sell_amount": {
+      "count": 1500,
+      "sum": 765400,
+      "mean": 510.26666666666665
+    },
+    "all_price_mean": 67.9959732036912,
+    "all_price_population_sd": 0.29147590626598846,
+    "all_price_min": 67.0198052322,
+    "all_price_max": 68.9864431804,
+    "n_total": 2500,
+    "n_buy": 500,
+    "n_normal_sell": 500,
+    "n_small_sell": 1500,
+    "buy_sum": 3259500,
+    "sell_sum": 3254600,
+    "buy_minus_sell": 4900,
+    "attempts_used": 3,
+    "seed_used": 10042
+  }
+]

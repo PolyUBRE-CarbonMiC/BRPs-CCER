@@ -1,0 +1,60 @@
+{
+  "purpose": "simulated_request_generation_for_BRP_CCER_aggregation_experiment",
+  "config": {
+    "seed": 42,
+    "buy_ratio": 1,
+    "normal_sell_ratio": 1,
+    "small_sell_ratio": 3,
+    "price_mean": 68.0,
+    "price_sd": 0.3,
+    "price_min": 67.0,
+    "price_max": 69.0,
+    "buy_amount_min": 4000,
+    "buy_amount_max": 9000,
+    "buy_amount_step": 500,
+    "normal_sell_amount_min": 4000,
+    "normal_sell_amount_max": 6000,
+    "normal_sell_amount_step": 400,
+    "small_sell_amount_min": 300,
+    "small_sell_amount_max": 700,
+    "small_sell_amount_step": 100,
+    "rp_low_min": 40,
+    "rp_low_max": 60,
+    "rp_mid_min": 60,
+    "rp_mid_max": 80,
+    "rp_high_min": 80,
+    "rp_high_max": 100,
+    "max_balance_gap": 100000,
+    "max_tries": 800000
+  },
+  "summary": {
+    "buy_amount": {
+      "count": 140,
+      "sum": 908500,
+      "mean": 6489.285714285715
+    },
+    "normal_sell_amount": {
+      "count": 140,
+      "sum": 689600,
+      "mean": 4925.714285714285
+    },
+    "small_sell_amount": {
+      "count": 420,
+      "sum": 210000,
+      "mean": 500
+    },
+    "all_price_mean": 67.990352128968,
+    "all_price_population_sd": 0.2999378540320493,
+    "all_price_min": 67.1658689894,
+    "all_price_max": 68.8752974973,
+    "n_total": 700,
+    "n_buy": 140,
+    "n_normal_sell": 140,
+    "n_small_sell": 420,
+    "buy_sum": 908500,
+    "sell_sum": 899600,
+    "buy_minus_sell": 8900,
+    "attempts_used": 2,
+    "seed_used": 3042
+  }
+}

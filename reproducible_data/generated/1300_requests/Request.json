@@ -1,0 +1,11702 @@
+[
+  {
+    "ID": "0",
+    "Type": "Sell",
+    "Amount": 5200,
+    "Price": 68.1162760474,
+    "RP": 51,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.5793892385,
+    "RP": 80,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "2",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.0913106812,
+    "RP": 42,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "3",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.4844920014,
+    "RP": 46,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "4",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.7715762338,
+    "RP": 81,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "5",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 67.9246304386,
+    "RP": 91,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "6",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.2142591429,
+    "RP": 86,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "7",
+    "Type": "Buy",
+    "Amount": 4000,
+    "Price": 67.8774366611,
+    "RP": 88,
+    "Smallsell": 0,
+    "PV": 5973.214426179
+  },
+  {
+    "ID": "8",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 67.8108498157,
+    "RP": 80,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "9",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.3323189244,
+    "RP": 40,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "10",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.1605265477,
+    "RP": 97,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "11",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.1308027004,
+    "RP": 99,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "12",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 68.6585034573,
+    "RP": 77,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "13",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 67.7065092427,
+    "RP": 83,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "14",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.9548317847,
+    "RP": 73,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "15",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.9458836242,
+    "RP": 57,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "16",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.7244064695,
+    "RP": 43,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "17",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.7934613836,
+    "RP": 52,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "18",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.8094288887,
+    "RP": 97,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "19",
+    "Type": "Buy",
+    "Amount": 5000,
+    "Price": 67.7964473718,
+    "RP": 83,
+    "Smallsell": 0,
+    "PV": 5627.1051318617
+  },
+  {
+    "ID": "20",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.2418661702,
+    "RP": 75,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "21",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.7956187197,
+    "RP": 63,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "22",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.3466751905,
+    "RP": 47,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "23",
+    "Type": "Sell",
+    "Amount": 4000,
+    "Price": 68.0054803346,
+    "RP": 85,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "24",
+    "Type": "Buy",
+    "Amount": 5500,
+    "Price": 68.0194168624,
+    "RP": 40,
+    "Smallsell": 0,
+    "PV": 2720.7766744976
+  },
+  {
+    "ID": "25",
+    "Type": "Buy",
+    "Amount": 9000,
+    "Price": 68.233191452,
+    "RP": 66,
+    "Smallsell": 0,
+    "PV": 4503.390635835
+  },
+  {
+    "ID": "26",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.2828237479,
+    "RP": 99,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "27",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 68.0857604305,
+    "RP": 62,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "28",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.9152089389,
+    "RP": 68,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "29",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.6469471803,
+    "RP": 78,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "30",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.9958775546,
+    "RP": 75,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "31",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.0552151772,
+    "RP": 50,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "32",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.8695707948,
+    "RP": 85,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "33",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.2274108676,
+    "RP": 57,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "34",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.6094198425,
+    "RP": 68,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "35",
+    "Type": "Buy",
+    "Amount": 9000,
+    "Price": 67.8584391176,
+    "RP": 40,
+    "Smallsell": 0,
+    "PV": 2714.3375647035
+  },
+  {
+    "ID": "36",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.2548570217,
+    "RP": 79,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "37",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.6959301215,
+    "RP": 83,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "38",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 67.8017229346,
+    "RP": 66,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "39",
+    "Type": "Buy",
+    "Amount": 9000,
+    "Price": 68.4889697896,
+    "RP": 64,
+    "Smallsell": 0,
+    "PV": 4383.2940665348
+  },
+  {
+    "ID": "40",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.4100111676,
+    "RP": 49,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "41",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 68.2686869318,
+    "RP": 55,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "42",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.1412603493,
+    "RP": 84,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "43",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 68.1896789084,
+    "RP": 71,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "44",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.1281887726,
+    "RP": 45,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "45",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.0498295353,
+    "RP": 89,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "46",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.8607317761,
+    "RP": 69,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "47",
+    "Type": "Buy",
+    "Amount": 5000,
+    "Price": 68.517055573,
+    "RP": 91,
+    "Smallsell": 0,
+    "PV": 6235.05205714
+  },
+  {
+    "ID": "48",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.125568426,
+    "RP": 81,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "49",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.8515047009,
+    "RP": 66,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "50",
+    "Type": "Buy",
+    "Amount": 6000,
+    "Price": 68.1229754242,
+    "RP": 76,
+    "Smallsell": 0,
+    "PV": 5177.3461322378
+  },
+  {
+    "ID": "51",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.6087376026,
+    "RP": 64,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "52",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.4958797388,
+    "RP": 68,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "53",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.8556746386,
+    "RP": 82,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "54",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.8347802896,
+    "RP": 62,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "55",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 67.1646679007,
+    "RP": 59,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "56",
+    "Type": "Buy",
+    "Amount": 6000,
+    "Price": 67.9393162498,
+    "RP": 98,
+    "Smallsell": 0,
+    "PV": 6658.0529924761
+  },
+  {
+    "ID": "57",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.5920220463,
+    "RP": 82,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "58",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.3070528617,
+    "RP": 92,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "59",
+    "Type": "Buy",
+    "Amount": 7000,
+    "Price": 68.2633005817,
+    "RP": 60,
+    "Smallsell": 0,
+    "PV": 4095.7980349036
+  },
+  {
+    "ID": "60",
+    "Type": "Buy",
+    "Amount": 7500,
+    "Price": 67.8097467909,
+    "RP": 81,
+    "Smallsell": 0,
+    "PV": 5492.5894900604
+  },
+  {
+    "ID": "61",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.0279997329,
+    "RP": 81,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "62",
+    "Type": "Buy",
+    "Amount": 9000,
+    "Price": 67.9114730912,
+    "RP": 64,
+    "Smallsell": 0,
+    "PV": 4346.334277837
+  },
+  {
+    "ID": "63",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.896755213,
+    "RP": 80,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "64",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.2617837186,
+    "RP": 100,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "65",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 67.5227435634,
+    "RP": 91,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "66",
+    "Type": "Buy",
+    "Amount": 5000,
+    "Price": 67.3690550614,
+    "RP": 58,
+    "Smallsell": 0,
+    "PV": 3907.4051935632
+  },
+  {
+    "ID": "67",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.4243621285,
+    "RP": 51,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "68",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.7822395721,
+    "RP": 49,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "69",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 67.9181727798,
+    "RP": 85,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "70",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.0246712217,
+    "RP": 93,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "71",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 67.7482500995,
+    "RP": 90,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "72",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 68.435454844,
+    "RP": 73,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "73",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.9534504702,
+    "RP": 94,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "74",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.0355811241,
+    "RP": 52,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "75",
+    "Type": "Sell",
+    "Amount": 5200,
+    "Price": 67.800194074,
+    "RP": 96,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "76",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.5647869937,
+    "RP": 70,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "77",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.8649303106,
+    "RP": 71,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "78",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.0536202433,
+    "RP": 91,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "79",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.0005716268,
+    "RP": 74,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "80",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.1877258347,
+    "RP": 44,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "81",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.7082803343,
+    "RP": 90,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "82",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.431991881,
+    "RP": 52,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "83",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.7866496888,
+    "RP": 75,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "84",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.2204646019,
+    "RP": 40,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "85",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.8816665206,
+    "RP": 97,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "86",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.3280088075,
+    "RP": 96,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "87",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.0925315642,
+    "RP": 41,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "88",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.3912435096,
+    "RP": 52,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "89",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.9749870939,
+    "RP": 63,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "90",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.9200989205,
+    "RP": 79,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "91",
+    "Type": "Buy",
+    "Amount": 5000,
+    "Price": 67.1911014474,
+    "RP": 83,
+    "Smallsell": 0,
+    "PV": 5576.861420132
+  },
+  {
+    "ID": "92",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.9905004667,
+    "RP": 51,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "93",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.8584796643,
+    "RP": 87,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "94",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.021824743,
+    "RP": 98,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "95",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.8492218699,
+    "RP": 94,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "96",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.8213416801,
+    "RP": 54,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "97",
+    "Type": "Sell",
+    "Amount": 5200,
+    "Price": 67.9104951025,
+    "RP": 80,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "98",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.9621674042,
+    "RP": 79,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "99",
+    "Type": "Buy",
+    "Amount": 4000,
+    "Price": 67.4191468641,
+    "RP": 85,
+    "Smallsell": 0,
+    "PV": 5730.6274834507
+  },
+  {
+    "ID": "100",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.8253742725,
+    "RP": 71,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "101",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.0062766769,
+    "RP": 40,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "102",
+    "Type": "Sell",
+    "Amount": 5200,
+    "Price": 67.9273684305,
+    "RP": 69,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "103",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.5677570097,
+    "RP": 83,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "104",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.8744110572,
+    "RP": 79,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "105",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.0871935519,
+    "RP": 42,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "106",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.4070873959,
+    "RP": 57,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "107",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.9426990995,
+    "RP": 68,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "108",
+    "Type": "Buy",
+    "Amount": 6500,
+    "Price": 67.5983290702,
+    "RP": 61,
+    "Smallsell": 0,
+    "PV": 4123.4980732847
+  },
+  {
+    "ID": "109",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.1750567517,
+    "RP": 87,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "110",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.3307236209,
+    "RP": 75,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "111",
+    "Type": "Buy",
+    "Amount": 7500,
+    "Price": 68.3739605943,
+    "RP": 93,
+    "Smallsell": 0,
+    "PV": 6358.7783352654
+  },
+  {
+    "ID": "112",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.0459797087,
+    "RP": 94,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "113",
+    "Type": "Buy",
+    "Amount": 5500,
+    "Price": 68.6223191011,
+    "RP": 51,
+    "Smallsell": 0,
+    "PV": 3499.7382741583
+  },
+  {
+    "ID": "114",
+    "Type": "Buy",
+    "Amount": 6500,
+    "Price": 67.7750054261,
+    "RP": 88,
+    "Smallsell": 0,
+    "PV": 5964.2004774964
+  },
+  {
+    "ID": "115",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.7881784,
+    "RP": 67,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "116",
+    "Type": "Buy",
+    "Amount": 7500,
+    "Price": 67.8875953145,
+    "RP": 79,
+    "Smallsell": 0,
+    "PV": 5363.1200298433
+  },
+  {
+    "ID": "117",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.3324888934,
+    "RP": 53,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "118",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 67.8605632676,
+    "RP": 61,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "119",
+    "Type": "Buy",
+    "Amount": 4500,
+    "Price": 68.3146751575,
+    "RP": 51,
+    "Smallsell": 0,
+    "PV": 3484.0484330311
+  },
+  {
+    "ID": "120",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.5304272864,
+    "RP": 71,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "121",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.7769866294,
+    "RP": 83,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "122",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 68.5554151177,
+    "RP": 73,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "123",
+    "Type": "Buy",
+    "Amount": 7000,
+    "Price": 67.8413646568,
+    "RP": 71,
+    "Smallsell": 0,
+    "PV": 4816.736890631
+  },
+  {
+    "ID": "124",
+    "Type": "Buy",
+    "Amount": 7500,
+    "Price": 67.7714342837,
+    "RP": 77,
+    "Smallsell": 0,
+    "PV": 5218.4004398429
+  },
+  {
+    "ID": "125",
+    "Type": "Sell",
+    "Amount": 4000,
+    "Price": 67.5730266657,
+    "RP": 88,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "126",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.8320767869,
+    "RP": 55,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "127",
+    "Type": "Buy",
+    "Amount": 5000,
+    "Price": 68.0204732213,
+    "RP": 91,
+    "Smallsell": 0,
+    "PV": 6189.8630631369
+  },
+  {
+    "ID": "128",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.8340964397,
+    "RP": 85,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "129",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.377943034,
+    "RP": 54,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "130",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 67.5812820782,
+    "RP": 81,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "131",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.0292782371,
+    "RP": 71,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "132",
+    "Type": "Buy",
+    "Amount": 5500,
+    "Price": 67.9463346354,
+    "RP": 61,
+    "Smallsell": 0,
+    "PV": 4144.7264127579
+  },
+  {
+    "ID": "133",
+    "Type": "Buy",
+    "Amount": 7500,
+    "Price": 68.0163548303,
+    "RP": 87,
+    "Smallsell": 0,
+    "PV": 5917.4228702362
+  },
+  {
+    "ID": "134",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 67.8121059279,
+    "RP": 73,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "135",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.8174005734,
+    "RP": 53,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "136",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 67.9527191811,
+    "RP": 75,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "137",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.4693574598,
+    "RP": 47,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "138",
+    "Type": "Buy",
+    "Amount": 6500,
+    "Price": 67.8608813368,
+    "RP": 56,
+    "Smallsell": 0,
+    "PV": 3800.2093548607
+  },
+  {
+    "ID": "139",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 67.832478397,
+    "RP": 87,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "140",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.8808528171,
+    "RP": 87,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "141",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.1823726373,
+    "RP": 72,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "142",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 67.7155283421,
+    "RP": 79,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "143",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 68.43213682,
+    "RP": 46,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "144",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.682413949,
+    "RP": 70,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "145",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.0532479825,
+    "RP": 83,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "146",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.0483643639,
+    "RP": 77,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "147",
+    "Type": "Buy",
+    "Amount": 9000,
+    "Price": 67.8348085746,
+    "RP": 92,
+    "Smallsell": 0,
+    "PV": 6240.8023888588
+  },
+  {
+    "ID": "148",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 67.8219114528,
+    "RP": 49,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "149",
+    "Type": "Sell",
+    "Amount": 5200,
+    "Price": 67.8160250093,
+    "RP": 79,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "150",
+    "Type": "Buy",
+    "Amount": 9000,
+    "Price": 68.2221521115,
+    "RP": 60,
+    "Smallsell": 0,
+    "PV": 4093.3291266873
+  },
+  {
+    "ID": "151",
+    "Type": "Buy",
+    "Amount": 5500,
+    "Price": 67.8063766766,
+    "RP": 99,
+    "Smallsell": 0,
+    "PV": 6712.8312909863
+  },
+  {
+    "ID": "152",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.0865637547,
+    "RP": 61,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "153",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.4500011973,
+    "RP": 57,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "154",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.1006535637,
+    "RP": 54,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "155",
+    "Type": "Buy",
+    "Amount": 5500,
+    "Price": 67.9419563319,
+    "RP": 55,
+    "Smallsell": 0,
+    "PV": 3736.8075982557
+  },
+  {
+    "ID": "156",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.3147829371,
+    "RP": 40,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "157",
+    "Type": "Buy",
+    "Amount": 8500,
+    "Price": 67.8716443377,
+    "RP": 81,
+    "Smallsell": 0,
+    "PV": 5497.6031913561
+  },
+  {
+    "ID": "158",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.1167201287,
+    "RP": 42,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "159",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 67.4572429127,
+    "RP": 50,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "160",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.3453545299,
+    "RP": 88,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "161",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.784689172,
+    "RP": 75,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "162",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.5120200772,
+    "RP": 57,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "163",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 68.0618756942,
+    "RP": 72,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "164",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.7302188494,
+    "RP": 55,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "165",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.2463310466,
+    "RP": 79,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "166",
+    "Type": "Buy",
+    "Amount": 9000,
+    "Price": 68.3383206263,
+    "RP": 89,
+    "Smallsell": 0,
+    "PV": 6082.110535739
+  },
+  {
+    "ID": "167",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.8931601886,
+    "RP": 42,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "168",
+    "Type": "Sell",
+    "Amount": 5200,
+    "Price": 68.1095375657,
+    "RP": 85,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "169",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.2406736363,
+    "RP": 44,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "170",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.2664436837,
+    "RP": 80,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "171",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.9626483804,
+    "RP": 80,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "172",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.1060410627,
+    "RP": 99,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "173",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.8519624526,
+    "RP": 60,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "174",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.2118911877,
+    "RP": 82,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "175",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.1516363151,
+    "RP": 42,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "176",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.7232862984,
+    "RP": 41,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "177",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.0535802216,
+    "RP": 96,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "178",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.0403574754,
+    "RP": 40,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "179",
+    "Type": "Buy",
+    "Amount": 4000,
+    "Price": 67.567992633,
+    "RP": 42,
+    "Smallsell": 0,
+    "PV": 2837.8556905846
+  },
+  {
+    "ID": "180",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.075171535,
+    "RP": 58,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "181",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 67.970386036,
+    "RP": 53,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "182",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.8507348834,
+    "RP": 51,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "183",
+    "Type": "Buy",
+    "Amount": 8000,
+    "Price": 67.7586825023,
+    "RP": 100,
+    "Smallsell": 0,
+    "PV": 6775.868250227
+  },
+  {
+    "ID": "184",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.4725529495,
+    "RP": 62,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "185",
+    "Type": "Buy",
+    "Amount": 9000,
+    "Price": 68.1333032398,
+    "RP": 95,
+    "Smallsell": 0,
+    "PV": 6472.6638077771
+  },
+  {
+    "ID": "186",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 67.8360558224,
+    "RP": 93,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "187",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.3976568296,
+    "RP": 62,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "188",
+    "Type": "Sell",
+    "Amount": 5200,
+    "Price": 67.9219030268,
+    "RP": 66,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "189",
+    "Type": "Buy",
+    "Amount": 8500,
+    "Price": 67.8389937497,
+    "RP": 76,
+    "Smallsell": 0,
+    "PV": 5155.7635249789
+  },
+  {
+    "ID": "190",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 67.4910713258,
+    "RP": 87,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "191",
+    "Type": "Buy",
+    "Amount": 5500,
+    "Price": 67.755663232,
+    "RP": 89,
+    "Smallsell": 0,
+    "PV": 6030.2540276473
+  },
+  {
+    "ID": "192",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 67.8403800927,
+    "RP": 60,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "193",
+    "Type": "Buy",
+    "Amount": 4500,
+    "Price": 68.0938310075,
+    "RP": 71,
+    "Smallsell": 0,
+    "PV": 4834.66200153
+  },
+  {
+    "ID": "194",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.9415070577,
+    "RP": 76,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "195",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.015899086,
+    "RP": 97,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "196",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.2494586809,
+    "RP": 42,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "197",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.2241305364,
+    "RP": 85,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "198",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.4735303483,
+    "RP": 92,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "199",
+    "Type": "Sell",
+    "Amount": 4000,
+    "Price": 68.5586199001,
+    "RP": 46,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "200",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.4614309471,
+    "RP": 72,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "201",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.9232852582,
+    "RP": 67,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "202",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 68.0372092457,
+    "RP": 85,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "203",
+    "Type": "Buy",
+    "Amount": 8500,
+    "Price": 67.727171793,
+    "RP": 57,
+    "Smallsell": 0,
+    "PV": 3860.4487921984
+  },
+  {
+    "ID": "204",
+    "Type": "Buy",
+    "Amount": 5000,
+    "Price": 68.1631113885,
+    "RP": 42,
+    "Smallsell": 0,
+    "PV": 2862.8506783164
+  },
+  {
+    "ID": "205",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.3671821221,
+    "RP": 42,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "206",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.5422596425,
+    "RP": 89,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "207",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.8947317106,
+    "RP": 93,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "208",
+    "Type": "Buy",
+    "Amount": 6500,
+    "Price": 67.9469638646,
+    "RP": 79,
+    "Smallsell": 0,
+    "PV": 5367.8101453056
+  },
+  {
+    "ID": "209",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.5403096531,
+    "RP": 45,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "210",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 67.9860043311,
+    "RP": 50,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "211",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.174220701,
+    "RP": 62,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "212",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.3988609,
+    "RP": 51,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "213",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.2127067786,
+    "RP": 65,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "214",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.5247294626,
+    "RP": 81,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "215",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.0098326586,
+    "RP": 89,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "216",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.8482242412,
+    "RP": 75,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "217",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.3676923848,
+    "RP": 62,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "218",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.9785714149,
+    "RP": 56,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "219",
+    "Type": "Sell",
+    "Amount": 5200,
+    "Price": 67.3217805566,
+    "RP": 90,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "220",
+    "Type": "Buy",
+    "Amount": 5500,
+    "Price": 67.528843969,
+    "RP": 65,
+    "Smallsell": 0,
+    "PV": 4389.3748579865
+  },
+  {
+    "ID": "221",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.5553183602,
+    "RP": 78,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "222",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.1744764655,
+    "RP": 92,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "223",
+    "Type": "Buy",
+    "Amount": 7500,
+    "Price": 68.0755747722,
+    "RP": 96,
+    "Smallsell": 0,
+    "PV": 6535.2551781337
+  },
+  {
+    "ID": "224",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.2623877896,
+    "RP": 43,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "225",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 67.685369647,
+    "RP": 80,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "226",
+    "Type": "Sell",
+    "Amount": 4000,
+    "Price": 68.3345439487,
+    "RP": 59,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "227",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.9144469255,
+    "RP": 44,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "228",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.9055852754,
+    "RP": 94,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "229",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 67.7957695296,
+    "RP": 46,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "230",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.8906556486,
+    "RP": 58,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "231",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.1257823682,
+    "RP": 60,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "232",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 67.6270718804,
+    "RP": 63,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "233",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.5126093785,
+    "RP": 95,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "234",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.0049402832,
+    "RP": 69,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "235",
+    "Type": "Buy",
+    "Amount": 6000,
+    "Price": 67.9553434035,
+    "RP": 52,
+    "Smallsell": 0,
+    "PV": 3533.6778569795
+  },
+  {
+    "ID": "236",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.097767772,
+    "RP": 76,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "237",
+    "Type": "Buy",
+    "Amount": 6000,
+    "Price": 67.8917378765,
+    "RP": 92,
+    "Smallsell": 0,
+    "PV": 6246.0398846413
+  },
+  {
+    "ID": "238",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.1728454897,
+    "RP": 74,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "239",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 67.8227562022,
+    "RP": 50,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "240",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.64871089,
+    "RP": 73,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "241",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.9101415933,
+    "RP": 98,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "242",
+    "Type": "Buy",
+    "Amount": 7000,
+    "Price": 67.7951481617,
+    "RP": 56,
+    "Smallsell": 0,
+    "PV": 3796.5282970575
+  },
+  {
+    "ID": "243",
+    "Type": "Buy",
+    "Amount": 5500,
+    "Price": 68.0188882806,
+    "RP": 53,
+    "Smallsell": 0,
+    "PV": 3605.0010788719
+  },
+  {
+    "ID": "244",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.5829577611,
+    "RP": 98,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "245",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.7971832212,
+    "RP": 92,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "246",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 67.6733079586,
+    "RP": 67,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "247",
+    "Type": "Sell",
+    "Amount": 5200,
+    "Price": 67.5964441896,
+    "RP": 40,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "248",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.5129211497,
+    "RP": 49,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "249",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.1420348077,
+    "RP": 49,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "250",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 67.7751807198,
+    "RP": 59,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "251",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.0180591358,
+    "RP": 80,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "252",
+    "Type": "Buy",
+    "Amount": 7500,
+    "Price": 68.3014479233,
+    "RP": 44,
+    "Smallsell": 0,
+    "PV": 3005.2637086236
+  },
+  {
+    "ID": "253",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 68.2149965595,
+    "RP": 61,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "254",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.3566117228,
+    "RP": 60,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "255",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 68.2144928147,
+    "RP": 99,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "256",
+    "Type": "Buy",
+    "Amount": 9000,
+    "Price": 68.2048047683,
+    "RP": 98,
+    "Smallsell": 0,
+    "PV": 6684.0708672958
+  },
+  {
+    "ID": "257",
+    "Type": "Buy",
+    "Amount": 4500,
+    "Price": 68.3842500398,
+    "RP": 89,
+    "Smallsell": 0,
+    "PV": 6086.1982535434
+  },
+  {
+    "ID": "258",
+    "Type": "Buy",
+    "Amount": 5500,
+    "Price": 67.8422295364,
+    "RP": 98,
+    "Smallsell": 0,
+    "PV": 6648.5384945635
+  },
+  {
+    "ID": "259",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.2449909583,
+    "RP": 74,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "260",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.9903335868,
+    "RP": 90,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "261",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.0173955801,
+    "RP": 54,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "262",
+    "Type": "Buy",
+    "Amount": 4500,
+    "Price": 68.3903490615,
+    "RP": 44,
+    "Smallsell": 0,
+    "PV": 3009.175358705
+  },
+  {
+    "ID": "263",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.4695108232,
+    "RP": 86,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "264",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.2036746331,
+    "RP": 91,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "265",
+    "Type": "Sell",
+    "Amount": 5200,
+    "Price": 67.5763618453,
+    "RP": 50,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "266",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 67.8740068226,
+    "RP": 76,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "267",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.4085649025,
+    "RP": 92,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "268",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.4558052684,
+    "RP": 46,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "269",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 68.0003813764,
+    "RP": 86,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "270",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.7891102631,
+    "RP": 62,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "271",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.280487568,
+    "RP": 92,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "272",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.6179416521,
+    "RP": 60,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "273",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.7236404378,
+    "RP": 96,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "274",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.0492819161,
+    "RP": 85,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "275",
+    "Type": "Buy",
+    "Amount": 9000,
+    "Price": 67.9346513262,
+    "RP": 58,
+    "Smallsell": 0,
+    "PV": 3940.2097769195
+  },
+  {
+    "ID": "276",
+    "Type": "Sell",
+    "Amount": 5200,
+    "Price": 67.7480837953,
+    "RP": 91,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "277",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 68.0967216509,
+    "RP": 47,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "278",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.909649531,
+    "RP": 91,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "279",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.7257713861,
+    "RP": 98,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "280",
+    "Type": "Buy",
+    "Amount": 5500,
+    "Price": 68.077936388,
+    "RP": 66,
+    "Smallsell": 0,
+    "PV": 4493.1438016096
+  },
+  {
+    "ID": "281",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 67.7466081808,
+    "RP": 97,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "282",
+    "Type": "Buy",
+    "Amount": 5500,
+    "Price": 68.4085182746,
+    "RP": 58,
+    "Smallsell": 0,
+    "PV": 3967.6940599261
+  },
+  {
+    "ID": "283",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 67.7592116597,
+    "RP": 100,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "284",
+    "Type": "Buy",
+    "Amount": 9000,
+    "Price": 68.1495727287,
+    "RP": 89,
+    "Smallsell": 0,
+    "PV": 6065.3119728559
+  },
+  {
+    "ID": "285",
+    "Type": "Buy",
+    "Amount": 8500,
+    "Price": 67.8243482711,
+    "RP": 54,
+    "Smallsell": 0,
+    "PV": 3662.5148066408
+  },
+  {
+    "ID": "286",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.6522597101,
+    "RP": 100,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "287",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.0478166049,
+    "RP": 67,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "288",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 67.5443292282,
+    "RP": 48,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "289",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.1728936308,
+    "RP": 61,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "290",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.658777164,
+    "RP": 92,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "291",
+    "Type": "Buy",
+    "Amount": 4500,
+    "Price": 68.1832496862,
+    "RP": 76,
+    "Smallsell": 0,
+    "PV": 5181.92697615
+  },
+  {
+    "ID": "292",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.6832642965,
+    "RP": 58,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "293",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.1463361747,
+    "RP": 94,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "294",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.0239333172,
+    "RP": 48,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "295",
+    "Type": "Buy",
+    "Amount": 6500,
+    "Price": 67.8616869367,
+    "RP": 96,
+    "Smallsell": 0,
+    "PV": 6514.7219459203
+  },
+  {
+    "ID": "296",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.2495997988,
+    "RP": 51,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "297",
+    "Type": "Buy",
+    "Amount": 5000,
+    "Price": 68.1619947122,
+    "RP": 58,
+    "Smallsell": 0,
+    "PV": 3953.3956933095
+  },
+  {
+    "ID": "298",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.8000110284,
+    "RP": 46,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "299",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.7189186255,
+    "RP": 89,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "300",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 68.2091882175,
+    "RP": 77,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "301",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.0681454955,
+    "RP": 47,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "302",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.8380713442,
+    "RP": 92,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "303",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.0456723701,
+    "RP": 51,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "304",
+    "Type": "Buy",
+    "Amount": 5000,
+    "Price": 67.8429684518,
+    "RP": 81,
+    "Smallsell": 0,
+    "PV": 5495.280444596
+  },
+  {
+    "ID": "305",
+    "Type": "Buy",
+    "Amount": 8500,
+    "Price": 68.1922368241,
+    "RP": 74,
+    "Smallsell": 0,
+    "PV": 5046.2255249869
+  },
+  {
+    "ID": "306",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 68.4176088186,
+    "RP": 99,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "307",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.6390957474,
+    "RP": 68,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "308",
+    "Type": "Sell",
+    "Amount": 4000,
+    "Price": 67.7399468896,
+    "RP": 60,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "309",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.0503809598,
+    "RP": 40,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "310",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.8823561099,
+    "RP": 56,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "311",
+    "Type": "Buy",
+    "Amount": 6500,
+    "Price": 67.8445891941,
+    "RP": 94,
+    "Smallsell": 0,
+    "PV": 6377.3913842436
+  },
+  {
+    "ID": "312",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.8259592999,
+    "RP": 82,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "313",
+    "Type": "Buy",
+    "Amount": 6000,
+    "Price": 67.9739949341,
+    "RP": 45,
+    "Smallsell": 0,
+    "PV": 3058.8297720328
+  },
+  {
+    "ID": "314",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.1949959329,
+    "RP": 67,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "315",
+    "Type": "Buy",
+    "Amount": 4500,
+    "Price": 68.0090328897,
+    "RP": 81,
+    "Smallsell": 0,
+    "PV": 5508.7316640679
+  },
+  {
+    "ID": "316",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.964075394,
+    "RP": 95,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "317",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.9762911705,
+    "RP": 92,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "318",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.0582969008,
+    "RP": 82,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "319",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.7703995222,
+    "RP": 76,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "320",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.0690863259,
+    "RP": 75,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "321",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.3006202177,
+    "RP": 92,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "322",
+    "Type": "Buy",
+    "Amount": 4500,
+    "Price": 67.8967648702,
+    "RP": 72,
+    "Smallsell": 0,
+    "PV": 4888.5670706565
+  },
+  {
+    "ID": "323",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.3598507453,
+    "RP": 76,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "324",
+    "Type": "Buy",
+    "Amount": 4500,
+    "Price": 67.4700044613,
+    "RP": 79,
+    "Smallsell": 0,
+    "PV": 5330.1303524398
+  },
+  {
+    "ID": "325",
+    "Type": "Buy",
+    "Amount": 6000,
+    "Price": 67.6741173624,
+    "RP": 87,
+    "Smallsell": 0,
+    "PV": 5887.6482105273
+  },
+  {
+    "ID": "326",
+    "Type": "Buy",
+    "Amount": 8500,
+    "Price": 67.8981827531,
+    "RP": 90,
+    "Smallsell": 0,
+    "PV": 6110.8364477754
+  },
+  {
+    "ID": "327",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.9642842512,
+    "RP": 92,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "328",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.9976127429,
+    "RP": 55,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "329",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.0950086064,
+    "RP": 73,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "330",
+    "Type": "Buy",
+    "Amount": 5500,
+    "Price": 67.7832355105,
+    "RP": 92,
+    "Smallsell": 0,
+    "PV": 6236.0576669647
+  },
+  {
+    "ID": "331",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.9044181135,
+    "RP": 57,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "332",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.8195997489,
+    "RP": 68,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "333",
+    "Type": "Buy",
+    "Amount": 5500,
+    "Price": 68.1743691824,
+    "RP": 94,
+    "Smallsell": 0,
+    "PV": 6408.3907031488
+  },
+  {
+    "ID": "334",
+    "Type": "Sell",
+    "Amount": 4000,
+    "Price": 68.3019420183,
+    "RP": 78,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "335",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.8414078884,
+    "RP": 94,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "336",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.6843992416,
+    "RP": 62,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "337",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.8571750138,
+    "RP": 100,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "338",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.8179420027,
+    "RP": 64,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "339",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.6118065582,
+    "RP": 95,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "340",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.7749710541,
+    "RP": 45,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "341",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.5296915899,
+    "RP": 94,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "342",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 68.1303277551,
+    "RP": 100,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "343",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.8948360093,
+    "RP": 48,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "344",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.8586672227,
+    "RP": 73,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "345",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.3645805305,
+    "RP": 64,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "346",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.9450624574,
+    "RP": 56,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "347",
+    "Type": "Buy",
+    "Amount": 4500,
+    "Price": 68.0125149364,
+    "RP": 79,
+    "Smallsell": 0,
+    "PV": 5372.9886799752
+  },
+  {
+    "ID": "348",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.6555200279,
+    "RP": 78,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "349",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 68.1111404556,
+    "RP": 80,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "350",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.7634073175,
+    "RP": 80,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "351",
+    "Type": "Buy",
+    "Amount": 9000,
+    "Price": 67.7267838095,
+    "RP": 86,
+    "Smallsell": 0,
+    "PV": 5824.5034076202
+  },
+  {
+    "ID": "352",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 68.5960016928,
+    "RP": 59,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "353",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.0752252342,
+    "RP": 99,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "354",
+    "Type": "Buy",
+    "Amount": 7000,
+    "Price": 68.4485599064,
+    "RP": 66,
+    "Smallsell": 0,
+    "PV": 4517.604953822
+  },
+  {
+    "ID": "355",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 68.5027298359,
+    "RP": 83,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "356",
+    "Type": "Buy",
+    "Amount": 8500,
+    "Price": 67.9942644662,
+    "RP": 99,
+    "Smallsell": 0,
+    "PV": 6731.432182158
+  },
+  {
+    "ID": "357",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 68.6853646044,
+    "RP": 54,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "358",
+    "Type": "Buy",
+    "Amount": 8000,
+    "Price": 67.873045759,
+    "RP": 41,
+    "Smallsell": 0,
+    "PV": 2782.7948761188
+  },
+  {
+    "ID": "359",
+    "Type": "Sell",
+    "Amount": 4000,
+    "Price": 67.7627904744,
+    "RP": 90,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "360",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.8819544335,
+    "RP": 48,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "361",
+    "Type": "Buy",
+    "Amount": 5500,
+    "Price": 67.9804767426,
+    "RP": 92,
+    "Smallsell": 0,
+    "PV": 6254.203860316
+  },
+  {
+    "ID": "362",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.0816505625,
+    "RP": 97,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "363",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.7326060254,
+    "RP": 40,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "364",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.5047489253,
+    "RP": 67,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "365",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.8850725403,
+    "RP": 51,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "366",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.0535969096,
+    "RP": 50,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "367",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.9248948167,
+    "RP": 93,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "368",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.8056284161,
+    "RP": 72,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "369",
+    "Type": "Buy",
+    "Amount": 8000,
+    "Price": 67.8031630641,
+    "RP": 43,
+    "Smallsell": 0,
+    "PV": 2915.5360117567
+  },
+  {
+    "ID": "370",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 67.8060036171,
+    "RP": 99,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "371",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.3283050094,
+    "RP": 84,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "372",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.256096358,
+    "RP": 47,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "373",
+    "Type": "Buy",
+    "Amount": 4000,
+    "Price": 67.4865264439,
+    "RP": 93,
+    "Smallsell": 0,
+    "PV": 6276.2469592819
+  },
+  {
+    "ID": "374",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.0010833319,
+    "RP": 41,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "375",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.4384252696,
+    "RP": 56,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "376",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.6077636296,
+    "RP": 61,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "377",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.980811043,
+    "RP": 72,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "378",
+    "Type": "Sell",
+    "Amount": 5200,
+    "Price": 67.4740551199,
+    "RP": 60,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "379",
+    "Type": "Buy",
+    "Amount": 5000,
+    "Price": 67.9912905073,
+    "RP": 65,
+    "Smallsell": 0,
+    "PV": 4419.4338829722
+  },
+  {
+    "ID": "380",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.2451176319,
+    "RP": 74,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "381",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.0576809633,
+    "RP": 52,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "382",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.9165995705,
+    "RP": 95,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "383",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.6777124899,
+    "RP": 79,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "384",
+    "Type": "Buy",
+    "Amount": 7500,
+    "Price": 68.1019968346,
+    "RP": 78,
+    "Smallsell": 0,
+    "PV": 5311.9557530986
+  },
+  {
+    "ID": "385",
+    "Type": "Buy",
+    "Amount": 7000,
+    "Price": 68.1940318685,
+    "RP": 58,
+    "Smallsell": 0,
+    "PV": 3955.253848374
+  },
+  {
+    "ID": "386",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.8278086206,
+    "RP": 88,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "387",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 68.2449097714,
+    "RP": 85,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "388",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 67.8668814018,
+    "RP": 68,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "389",
+    "Type": "Buy",
+    "Amount": 8500,
+    "Price": 68.3323695868,
+    "RP": 62,
+    "Smallsell": 0,
+    "PV": 4236.606914379
+  },
+  {
+    "ID": "390",
+    "Type": "Buy",
+    "Amount": 6500,
+    "Price": 68.2791561097,
+    "RP": 60,
+    "Smallsell": 0,
+    "PV": 4096.7493665792
+  },
+  {
+    "ID": "391",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.7708112095,
+    "RP": 46,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "392",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.8724616417,
+    "RP": 60,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "393",
+    "Type": "Buy",
+    "Amount": 6000,
+    "Price": 67.1457353561,
+    "RP": 80,
+    "Smallsell": 0,
+    "PV": 5371.6588284883
+  },
+  {
+    "ID": "394",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.4437827023,
+    "RP": 40,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "395",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.7421577831,
+    "RP": 67,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "396",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.1833226827,
+    "RP": 53,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "397",
+    "Type": "Sell",
+    "Amount": 4000,
+    "Price": 68.5904139278,
+    "RP": 56,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "398",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.0570979142,
+    "RP": 45,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "399",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.5236689035,
+    "RP": 62,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "400",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.0888965842,
+    "RP": 82,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "401",
+    "Type": "Buy",
+    "Amount": 9000,
+    "Price": 68.3107851351,
+    "RP": 69,
+    "Smallsell": 0,
+    "PV": 4713.4441743245
+  },
+  {
+    "ID": "402",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 68.0249184077,
+    "RP": 45,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "403",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.1284893897,
+    "RP": 86,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "404",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.9304528565,
+    "RP": 61,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "405",
+    "Type": "Buy",
+    "Amount": 6000,
+    "Price": 67.9359436001,
+    "RP": 64,
+    "Smallsell": 0,
+    "PV": 4347.9003904041
+  },
+  {
+    "ID": "406",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.0179583854,
+    "RP": 84,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "407",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.6840450555,
+    "RP": 85,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "408",
+    "Type": "Buy",
+    "Amount": 5000,
+    "Price": 68.456106939,
+    "RP": 55,
+    "Smallsell": 0,
+    "PV": 3765.0858816467
+  },
+  {
+    "ID": "409",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.1905611263,
+    "RP": 81,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "410",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 68.0090196226,
+    "RP": 69,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "411",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.9657177503,
+    "RP": 59,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "412",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.4190741211,
+    "RP": 83,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "413",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.8988839463,
+    "RP": 90,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "414",
+    "Type": "Buy",
+    "Amount": 7000,
+    "Price": 67.7882659664,
+    "RP": 65,
+    "Smallsell": 0,
+    "PV": 4406.2372878181
+  },
+  {
+    "ID": "415",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.9394317772,
+    "RP": 56,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "416",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.7557304022,
+    "RP": 70,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "417",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.1012251483,
+    "RP": 92,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "418",
+    "Type": "Buy",
+    "Amount": 6000,
+    "Price": 67.5033033418,
+    "RP": 97,
+    "Smallsell": 0,
+    "PV": 6547.8204241513
+  },
+  {
+    "ID": "419",
+    "Type": "Buy",
+    "Amount": 8500,
+    "Price": 67.9963074043,
+    "RP": 67,
+    "Smallsell": 0,
+    "PV": 4555.7525960855
+  },
+  {
+    "ID": "420",
+    "Type": "Buy",
+    "Amount": 5000,
+    "Price": 67.8508310277,
+    "RP": 43,
+    "Smallsell": 0,
+    "PV": 2917.5857341913
+  },
+  {
+    "ID": "421",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.3131600181,
+    "RP": 74,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "422",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.3906470264,
+    "RP": 84,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "423",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.0474932056,
+    "RP": 67,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "424",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 67.9824467879,
+    "RP": 52,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "425",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.0094058104,
+    "RP": 89,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "426",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.437084194,
+    "RP": 61,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "427",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.3011964645,
+    "RP": 74,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "428",
+    "Type": "Sell",
+    "Amount": 5200,
+    "Price": 67.6766714042,
+    "RP": 81,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "429",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.9728580067,
+    "RP": 41,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "430",
+    "Type": "Buy",
+    "Amount": 7500,
+    "Price": 67.9117965737,
+    "RP": 80,
+    "Smallsell": 0,
+    "PV": 5432.9437258964
+  },
+  {
+    "ID": "431",
+    "Type": "Sell",
+    "Amount": 4000,
+    "Price": 68.074927025,
+    "RP": 40,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "432",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.6321141936,
+    "RP": 60,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "433",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.566444148,
+    "RP": 81,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "434",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.5388057116,
+    "RP": 58,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "435",
+    "Type": "Buy",
+    "Amount": 4000,
+    "Price": 68.3435125125,
+    "RP": 43,
+    "Smallsell": 0,
+    "PV": 2938.7710380391
+  },
+  {
+    "ID": "436",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.9313968531,
+    "RP": 44,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "437",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.1767700259,
+    "RP": 51,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "438",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.0450590228,
+    "RP": 94,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "439",
+    "Type": "Buy",
+    "Amount": 5500,
+    "Price": 68.3496482697,
+    "RP": 62,
+    "Smallsell": 0,
+    "PV": 4237.6781927241
+  },
+  {
+    "ID": "440",
+    "Type": "Buy",
+    "Amount": 6000,
+    "Price": 68.5421316576,
+    "RP": 58,
+    "Smallsell": 0,
+    "PV": 3975.4436361393
+  },
+  {
+    "ID": "441",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.6607725218,
+    "RP": 71,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "442",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.0939285624,
+    "RP": 79,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "443",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.1266436923,
+    "RP": 52,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "444",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.8616991552,
+    "RP": 40,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "445",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.1454079188,
+    "RP": 100,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "446",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 67.8271859384,
+    "RP": 77,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "447",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.5999306731,
+    "RP": 55,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "448",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.8834085853,
+    "RP": 76,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "449",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.15708645,
+    "RP": 95,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "450",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.1421012444,
+    "RP": 73,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "451",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 68.2769465328,
+    "RP": 52,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "452",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.1305511698,
+    "RP": 77,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "453",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.7855750857,
+    "RP": 53,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "454",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.6043139316,
+    "RP": 61,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "455",
+    "Type": "Buy",
+    "Amount": 8500,
+    "Price": 68.2076274143,
+    "RP": 44,
+    "Smallsell": 0,
+    "PV": 3001.1356062308
+  },
+  {
+    "ID": "456",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 67.9345574836,
+    "RP": 87,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "457",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 68.0588555308,
+    "RP": 43,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "458",
+    "Type": "Buy",
+    "Amount": 4500,
+    "Price": 68.3597773651,
+    "RP": 83,
+    "Smallsell": 0,
+    "PV": 5673.8615213069
+  },
+  {
+    "ID": "459",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.5466568893,
+    "RP": 44,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "460",
+    "Type": "Sell",
+    "Amount": 4000,
+    "Price": 68.019833885,
+    "RP": 79,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "461",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.4638480322,
+    "RP": 46,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "462",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.2917771867,
+    "RP": 67,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "463",
+    "Type": "Buy",
+    "Amount": 8000,
+    "Price": 68.3486773297,
+    "RP": 95,
+    "Smallsell": 0,
+    "PV": 6493.1243463187
+  },
+  {
+    "ID": "464",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.8979577919,
+    "RP": 79,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "465",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.6377647486,
+    "RP": 90,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "466",
+    "Type": "Buy",
+    "Amount": 4500,
+    "Price": 67.101511101,
+    "RP": 95,
+    "Smallsell": 0,
+    "PV": 6374.6435545922
+  },
+  {
+    "ID": "467",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.712506771,
+    "RP": 92,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "468",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.9644219255,
+    "RP": 42,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "469",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.181962783,
+    "RP": 50,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "470",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.8066742413,
+    "RP": 99,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "471",
+    "Type": "Buy",
+    "Amount": 6500,
+    "Price": 67.8195901085,
+    "RP": 88,
+    "Smallsell": 0,
+    "PV": 5968.123929546
+  },
+  {
+    "ID": "472",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.6122089939,
+    "RP": 59,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "473",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.1491072246,
+    "RP": 43,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "474",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.0089447845,
+    "RP": 88,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "475",
+    "Type": "Buy",
+    "Amount": 8000,
+    "Price": 67.5129314632,
+    "RP": 85,
+    "Smallsell": 0,
+    "PV": 5738.5991743719
+  },
+  {
+    "ID": "476",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.0813205,
+    "RP": 45,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "477",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.6935726959,
+    "RP": 60,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "478",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.8593982649,
+    "RP": 69,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "479",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.0127284711,
+    "RP": 99,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "480",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 67.6878458876,
+    "RP": 73,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "481",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.5877219189,
+    "RP": 92,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "482",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 68.3252683667,
+    "RP": 98,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "483",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.8676706697,
+    "RP": 95,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "484",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.1867313929,
+    "RP": 89,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "485",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.8094842104,
+    "RP": 40,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "486",
+    "Type": "Buy",
+    "Amount": 4000,
+    "Price": 67.9542186283,
+    "RP": 84,
+    "Smallsell": 0,
+    "PV": 5708.1543647766
+  },
+  {
+    "ID": "487",
+    "Type": "Sell",
+    "Amount": 4000,
+    "Price": 68.118850818,
+    "RP": 62,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "488",
+    "Type": "Buy",
+    "Amount": 8000,
+    "Price": 67.6671935488,
+    "RP": 86,
+    "Smallsell": 0,
+    "PV": 5819.378645201
+  },
+  {
+    "ID": "489",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.1670093935,
+    "RP": 83,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "490",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.2377749447,
+    "RP": 72,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "491",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.8811407134,
+    "RP": 62,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "492",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.7051572174,
+    "RP": 67,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "493",
+    "Type": "Sell",
+    "Amount": 4000,
+    "Price": 68.15270856,
+    "RP": 41,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "494",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.8787824592,
+    "RP": 85,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "495",
+    "Type": "Buy",
+    "Amount": 4500,
+    "Price": 67.4999501655,
+    "RP": 60,
+    "Smallsell": 0,
+    "PV": 4049.9970099297
+  },
+  {
+    "ID": "496",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.9546060798,
+    "RP": 59,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "497",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.6874619057,
+    "RP": 83,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "498",
+    "Type": "Buy",
+    "Amount": 6500,
+    "Price": 68.446806437,
+    "RP": 60,
+    "Smallsell": 0,
+    "PV": 4106.8083862174
+  },
+  {
+    "ID": "499",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.4824057874,
+    "RP": 41,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "500",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.2064854989,
+    "RP": 44,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "501",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.8380763346,
+    "RP": 48,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "502",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.6453870226,
+    "RP": 78,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "503",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.3775614898,
+    "RP": 98,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "504",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 67.9474209662,
+    "RP": 60,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "505",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.1923643059,
+    "RP": 59,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "506",
+    "Type": "Buy",
+    "Amount": 5500,
+    "Price": 67.1397584343,
+    "RP": 65,
+    "Smallsell": 0,
+    "PV": 4364.0842982294
+  },
+  {
+    "ID": "507",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.0926629343,
+    "RP": 52,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "508",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.7212116697,
+    "RP": 72,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "509",
+    "Type": "Buy",
+    "Amount": 4000,
+    "Price": 68.010568451,
+    "RP": 57,
+    "Smallsell": 0,
+    "PV": 3876.6024017093
+  },
+  {
+    "ID": "510",
+    "Type": "Buy",
+    "Amount": 5500,
+    "Price": 68.3980702056,
+    "RP": 78,
+    "Smallsell": 0,
+    "PV": 5335.049476038
+  },
+  {
+    "ID": "511",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.4269407399,
+    "RP": 68,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "512",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.5898742054,
+    "RP": 76,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "513",
+    "Type": "Buy",
+    "Amount": 5500,
+    "Price": 67.8354065194,
+    "RP": 41,
+    "Smallsell": 0,
+    "PV": 2781.2516672966
+  },
+  {
+    "ID": "514",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.5018272213,
+    "RP": 77,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "515",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 67.7880769742,
+    "RP": 58,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "516",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.8119888291,
+    "RP": 75,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "517",
+    "Type": "Buy",
+    "Amount": 6000,
+    "Price": 68.6183830376,
+    "RP": 89,
+    "Smallsell": 0,
+    "PV": 6107.0360903422
+  },
+  {
+    "ID": "518",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.5141041095,
+    "RP": 65,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "519",
+    "Type": "Buy",
+    "Amount": 8500,
+    "Price": 67.7606448869,
+    "RP": 83,
+    "Smallsell": 0,
+    "PV": 5624.1335256102
+  },
+  {
+    "ID": "520",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.3086017432,
+    "RP": 40,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "521",
+    "Type": "Buy",
+    "Amount": 5000,
+    "Price": 67.9713795967,
+    "RP": 59,
+    "Smallsell": 0,
+    "PV": 4010.3113962081
+  },
+  {
+    "ID": "522",
+    "Type": "Buy",
+    "Amount": 8000,
+    "Price": 68.4275391084,
+    "RP": 44,
+    "Smallsell": 0,
+    "PV": 3010.8117207687
+  },
+  {
+    "ID": "523",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 67.5506801103,
+    "RP": 92,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "524",
+    "Type": "Sell",
+    "Amount": 5200,
+    "Price": 68.419738174,
+    "RP": 49,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "525",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 67.9656860204,
+    "RP": 73,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "526",
+    "Type": "Buy",
+    "Amount": 4500,
+    "Price": 68.5633667876,
+    "RP": 94,
+    "Smallsell": 0,
+    "PV": 6444.9564780369
+  },
+  {
+    "ID": "527",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.6000775828,
+    "RP": 80,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "528",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.0346958634,
+    "RP": 75,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "529",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.992365876,
+    "RP": 52,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "530",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 67.8757403468,
+    "RP": 70,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "531",
+    "Type": "Buy",
+    "Amount": 5000,
+    "Price": 68.1272396932,
+    "RP": 45,
+    "Smallsell": 0,
+    "PV": 3065.725786192
+  },
+  {
+    "ID": "532",
+    "Type": "Buy",
+    "Amount": 6000,
+    "Price": 67.7794916984,
+    "RP": 79,
+    "Smallsell": 0,
+    "PV": 5354.5798441742
+  },
+  {
+    "ID": "533",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.9051862619,
+    "RP": 61,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "534",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.2508793199,
+    "RP": 60,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "535",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.6797211819,
+    "RP": 76,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "536",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.0230461465,
+    "RP": 70,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "537",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 67.7283974307,
+    "RP": 95,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "538",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 67.798173505,
+    "RP": 100,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "539",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.4289104018,
+    "RP": 71,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "540",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.7438657827,
+    "RP": 63,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "541",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 68.2155008755,
+    "RP": 46,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "542",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 68.131358592,
+    "RP": 53,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "543",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.0671785396,
+    "RP": 78,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "544",
+    "Type": "Buy",
+    "Amount": 8500,
+    "Price": 67.8103304427,
+    "RP": 82,
+    "Smallsell": 0,
+    "PV": 5560.4470962981
+  },
+  {
+    "ID": "545",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.0377450773,
+    "RP": 81,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "546",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.011673846,
+    "RP": 43,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "547",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.8867386374,
+    "RP": 98,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "548",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.8514756154,
+    "RP": 66,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "549",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.7178610955,
+    "RP": 47,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "550",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.8541785172,
+    "RP": 95,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "551",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.5511700602,
+    "RP": 82,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "552",
+    "Type": "Buy",
+    "Amount": 9000,
+    "Price": 68.1713457288,
+    "RP": 48,
+    "Smallsell": 0,
+    "PV": 3272.2245949801
+  },
+  {
+    "ID": "553",
+    "Type": "Buy",
+    "Amount": 8000,
+    "Price": 67.9055025604,
+    "RP": 85,
+    "Smallsell": 0,
+    "PV": 5771.9677176314
+  },
+  {
+    "ID": "554",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.7059240549,
+    "RP": 74,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "555",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.2825920953,
+    "RP": 81,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "556",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.7625773494,
+    "RP": 73,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "557",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.0023913198,
+    "RP": 64,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "558",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.1637014263,
+    "RP": 77,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "559",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.0845337203,
+    "RP": 94,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "560",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 68.1067490586,
+    "RP": 87,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "561",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.7368051006,
+    "RP": 99,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "562",
+    "Type": "Buy",
+    "Amount": 4000,
+    "Price": 68.3157562395,
+    "RP": 58,
+    "Smallsell": 0,
+    "PV": 3962.3138618923
+  },
+  {
+    "ID": "563",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.998545479,
+    "RP": 94,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "564",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.8515056262,
+    "RP": 73,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "565",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.3863035802,
+    "RP": 59,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "566",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.2008418283,
+    "RP": 85,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "567",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.6123831407,
+    "RP": 52,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "568",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 68.0048633332,
+    "RP": 71,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "569",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.6648855623,
+    "RP": 42,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "570",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.9238904779,
+    "RP": 66,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "571",
+    "Type": "Buy",
+    "Amount": 7000,
+    "Price": 68.2625093428,
+    "RP": 60,
+    "Smallsell": 0,
+    "PV": 4095.7505605674
+  },
+  {
+    "ID": "572",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.4489828307,
+    "RP": 74,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "573",
+    "Type": "Sell",
+    "Amount": 4000,
+    "Price": 67.9294771544,
+    "RP": 58,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "574",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.6287262307,
+    "RP": 95,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "575",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.3647168908,
+    "RP": 51,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "576",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.8375047619,
+    "RP": 54,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "577",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 68.7793109253,
+    "RP": 72,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "578",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.7841334317,
+    "RP": 84,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "579",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 68.604667543,
+    "RP": 80,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "580",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.7176143784,
+    "RP": 86,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "581",
+    "Type": "Buy",
+    "Amount": 6000,
+    "Price": 68.2415439404,
+    "RP": 68,
+    "Smallsell": 0,
+    "PV": 4640.4249879492
+  },
+  {
+    "ID": "582",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.8578741014,
+    "RP": 97,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "583",
+    "Type": "Sell",
+    "Amount": 4000,
+    "Price": 68.1282130074,
+    "RP": 80,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "584",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.3050915119,
+    "RP": 67,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "585",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.1326304643,
+    "RP": 55,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "586",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.8523334764,
+    "RP": 100,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "587",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.1429706837,
+    "RP": 90,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "588",
+    "Type": "Buy",
+    "Amount": 8500,
+    "Price": 67.8940129999,
+    "RP": 97,
+    "Smallsell": 0,
+    "PV": 6585.719260991
+  },
+  {
+    "ID": "589",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.5312112759,
+    "RP": 80,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "590",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.0967349797,
+    "RP": 84,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "591",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.3783408598,
+    "RP": 97,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "592",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.9193431918,
+    "RP": 60,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "593",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.1820232914,
+    "RP": 41,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "594",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.3219091122,
+    "RP": 58,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "595",
+    "Type": "Sell",
+    "Amount": 5200,
+    "Price": 67.8249600954,
+    "RP": 93,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "596",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 67.7434759366,
+    "RP": 76,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "597",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.9853180422,
+    "RP": 75,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "598",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 68.0441090321,
+    "RP": 59,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "599",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.0539703809,
+    "RP": 65,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "600",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.9289668057,
+    "RP": 100,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "601",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.0452405536,
+    "RP": 68,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "602",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.5227037402,
+    "RP": 58,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "603",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.1418670041,
+    "RP": 62,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "604",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.775699907,
+    "RP": 92,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "605",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.8810591889,
+    "RP": 96,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "606",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.1743856294,
+    "RP": 55,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "607",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.8866367313,
+    "RP": 100,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "608",
+    "Type": "Buy",
+    "Amount": 8000,
+    "Price": 67.9533284787,
+    "RP": 74,
+    "Smallsell": 0,
+    "PV": 5028.546307422
+  },
+  {
+    "ID": "609",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.1198369467,
+    "RP": 80,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "610",
+    "Type": "Sell",
+    "Amount": 5200,
+    "Price": 67.9900631007,
+    "RP": 58,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "611",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.0360865324,
+    "RP": 72,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "612",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.5676618686,
+    "RP": 85,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "613",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.090424409,
+    "RP": 100,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "614",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 67.5486666078,
+    "RP": 89,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "615",
+    "Type": "Buy",
+    "Amount": 5500,
+    "Price": 68.4689115493,
+    "RP": 73,
+    "Smallsell": 0,
+    "PV": 4998.2305430953
+  },
+  {
+    "ID": "616",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.2603887988,
+    "RP": 71,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "617",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 67.9151384957,
+    "RP": 97,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "618",
+    "Type": "Buy",
+    "Amount": 4000,
+    "Price": 68.3580574123,
+    "RP": 55,
+    "Smallsell": 0,
+    "PV": 3759.6931576762
+  },
+  {
+    "ID": "619",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 68.0520252724,
+    "RP": 45,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "620",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 67.6824793239,
+    "RP": 58,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "621",
+    "Type": "Buy",
+    "Amount": 8500,
+    "Price": 68.284295761,
+    "RP": 84,
+    "Smallsell": 0,
+    "PV": 5735.8808439258
+  },
+  {
+    "ID": "622",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.7418385403,
+    "RP": 71,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "623",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.3164120295,
+    "RP": 98,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "624",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.1879926046,
+    "RP": 53,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "625",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.9614166842,
+    "RP": 83,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "626",
+    "Type": "Buy",
+    "Amount": 8000,
+    "Price": 67.8775329805,
+    "RP": 63,
+    "Smallsell": 0,
+    "PV": 4276.284577769
+  },
+  {
+    "ID": "627",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.8831188312,
+    "RP": 72,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "628",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.2132652404,
+    "RP": 100,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "629",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.8181562633,
+    "RP": 90,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "630",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.6234552799,
+    "RP": 58,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "631",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.9350871456,
+    "RP": 71,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "632",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 67.8726466034,
+    "RP": 94,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "633",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.4291418239,
+    "RP": 71,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "634",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.3746866632,
+    "RP": 89,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "635",
+    "Type": "Buy",
+    "Amount": 8000,
+    "Price": 67.9900710348,
+    "RP": 77,
+    "Smallsell": 0,
+    "PV": 5235.2354696774
+  },
+  {
+    "ID": "636",
+    "Type": "Buy",
+    "Amount": 7500,
+    "Price": 67.5909975603,
+    "RP": 82,
+    "Smallsell": 0,
+    "PV": 5542.4617999415
+  },
+  {
+    "ID": "637",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 67.3177408681,
+    "RP": 46,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "638",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.5553553905,
+    "RP": 82,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "639",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.7333148892,
+    "RP": 58,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "640",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.6567298206,
+    "RP": 74,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "641",
+    "Type": "Buy",
+    "Amount": 5000,
+    "Price": 68.4065121096,
+    "RP": 69,
+    "Smallsell": 0,
+    "PV": 4720.0493355624
+  },
+  {
+    "ID": "642",
+    "Type": "Buy",
+    "Amount": 9000,
+    "Price": 68.1297606498,
+    "RP": 100,
+    "Smallsell": 0,
+    "PV": 6812.9760649813
+  },
+  {
+    "ID": "643",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 68.1612510195,
+    "RP": 60,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "644",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 68.1032031797,
+    "RP": 60,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "645",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.3755062413,
+    "RP": 47,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "646",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.097720498,
+    "RP": 90,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "647",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.5998172665,
+    "RP": 40,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "648",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.5232617565,
+    "RP": 89,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "649",
+    "Type": "Buy",
+    "Amount": 4500,
+    "Price": 68.0637385491,
+    "RP": 57,
+    "Smallsell": 0,
+    "PV": 3879.6330973001
+  },
+  {
+    "ID": "650",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.9248768894,
+    "RP": 79,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "651",
+    "Type": "Buy",
+    "Amount": 8500,
+    "Price": 67.6336018547,
+    "RP": 98,
+    "Smallsell": 0,
+    "PV": 6628.092981765
+  },
+  {
+    "ID": "652",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.6717229758,
+    "RP": 77,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "653",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.6211188262,
+    "RP": 84,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "654",
+    "Type": "Buy",
+    "Amount": 8000,
+    "Price": 67.8296022299,
+    "RP": 91,
+    "Smallsell": 0,
+    "PV": 6172.4938029197
+  },
+  {
+    "ID": "655",
+    "Type": "Buy",
+    "Amount": 7500,
+    "Price": 67.707741084,
+    "RP": 75,
+    "Smallsell": 0,
+    "PV": 5078.0805812989
+  },
+  {
+    "ID": "656",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 67.5011621255,
+    "RP": 91,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "657",
+    "Type": "Sell",
+    "Amount": 4000,
+    "Price": 67.7359077252,
+    "RP": 60,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "658",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 67.8310101977,
+    "RP": 85,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "659",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.9071471773,
+    "RP": 60,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "660",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.9697361841,
+    "RP": 66,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "661",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.662621828,
+    "RP": 69,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "662",
+    "Type": "Buy",
+    "Amount": 7500,
+    "Price": 68.1831219039,
+    "RP": 79,
+    "Smallsell": 0,
+    "PV": 5386.4666304092
+  },
+  {
+    "ID": "663",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.4229487059,
+    "RP": 54,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "664",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.1576890373,
+    "RP": 74,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "665",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.9314521204,
+    "RP": 100,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "666",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.9172744621,
+    "RP": 80,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "667",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 68.1899217144,
+    "RP": 95,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "668",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.3981937487,
+    "RP": 50,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "669",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.9902820232,
+    "RP": 60,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "670",
+    "Type": "Buy",
+    "Amount": 4000,
+    "Price": 68.1926073132,
+    "RP": 82,
+    "Smallsell": 0,
+    "PV": 5591.7937996826
+  },
+  {
+    "ID": "671",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.8889657059,
+    "RP": 44,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "672",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.1481026829,
+    "RP": 62,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "673",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.1349092906,
+    "RP": 46,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "674",
+    "Type": "Sell",
+    "Amount": 4000,
+    "Price": 67.8514411813,
+    "RP": 83,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "675",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.9951919618,
+    "RP": 97,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "676",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 68.3870503171,
+    "RP": 75,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "677",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.7867103061,
+    "RP": 48,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "678",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.9790652706,
+    "RP": 95,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "679",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.7675107765,
+    "RP": 53,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "680",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.5595507768,
+    "RP": 45,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "681",
+    "Type": "Buy",
+    "Amount": 5000,
+    "Price": 67.8918937528,
+    "RP": 62,
+    "Smallsell": 0,
+    "PV": 4209.2974126733
+  },
+  {
+    "ID": "682",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.2655397257,
+    "RP": 76,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "683",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.3636621945,
+    "RP": 65,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "684",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.7168471383,
+    "RP": 94,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "685",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 68.3352924466,
+    "RP": 44,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "686",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.5011843089,
+    "RP": 40,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "687",
+    "Type": "Buy",
+    "Amount": 9000,
+    "Price": 69.0,
+    "RP": 84,
+    "Smallsell": 0,
+    "PV": 5796.0
+  },
+  {
+    "ID": "688",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 68.5198954202,
+    "RP": 80,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "689",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.3305433524,
+    "RP": 78,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "690",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.5609148878,
+    "RP": 64,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "691",
+    "Type": "Buy",
+    "Amount": 6000,
+    "Price": 68.0982488537,
+    "RP": 84,
+    "Smallsell": 0,
+    "PV": 5720.2529037106
+  },
+  {
+    "ID": "692",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.9490211813,
+    "RP": 82,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "693",
+    "Type": "Buy",
+    "Amount": 9000,
+    "Price": 67.9569438604,
+    "RP": 40,
+    "Smallsell": 0,
+    "PV": 2718.277754415
+  },
+  {
+    "ID": "694",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.8924098781,
+    "RP": 76,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "695",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.1317751594,
+    "RP": 73,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "696",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 68.3731914148,
+    "RP": 65,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "697",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.8869388117,
+    "RP": 40,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "698",
+    "Type": "Sell",
+    "Amount": 5200,
+    "Price": 68.2373818687,
+    "RP": 42,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "699",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.1540904945,
+    "RP": 96,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "700",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.8144577791,
+    "RP": 52,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "701",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.6256945556,
+    "RP": 46,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "702",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.6910183926,
+    "RP": 68,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "703",
+    "Type": "Buy",
+    "Amount": 6500,
+    "Price": 68.0725311257,
+    "RP": 81,
+    "Smallsell": 0,
+    "PV": 5513.8750211818
+  },
+  {
+    "ID": "704",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.3378336428,
+    "RP": 94,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "705",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.655158966,
+    "RP": 42,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "706",
+    "Type": "Buy",
+    "Amount": 5000,
+    "Price": 67.7976822615,
+    "RP": 62,
+    "Smallsell": 0,
+    "PV": 4203.4563002109
+  },
+  {
+    "ID": "707",
+    "Type": "Buy",
+    "Amount": 4000,
+    "Price": 67.9723661683,
+    "RP": 64,
+    "Smallsell": 0,
+    "PV": 4350.2314347734
+  },
+  {
+    "ID": "708",
+    "Type": "Sell",
+    "Amount": 4000,
+    "Price": 68.5837980877,
+    "RP": 55,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "709",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 68.2618902173,
+    "RP": 80,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "710",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.5064616654,
+    "RP": 93,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "711",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.2706472986,
+    "RP": 60,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "712",
+    "Type": "Buy",
+    "Amount": 4500,
+    "Price": 68.4560721911,
+    "RP": 40,
+    "Smallsell": 0,
+    "PV": 2738.2428876454
+  },
+  {
+    "ID": "713",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 67.7497328338,
+    "RP": 46,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "714",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.3065554199,
+    "RP": 60,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "715",
+    "Type": "Sell",
+    "Amount": 5200,
+    "Price": 67.7144057044,
+    "RP": 69,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "716",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.6015028352,
+    "RP": 48,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "717",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.7906280498,
+    "RP": 72,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "718",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.9467062391,
+    "RP": 82,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "719",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.1591672521,
+    "RP": 80,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "720",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.9366354181,
+    "RP": 98,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "721",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.2774599229,
+    "RP": 90,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "722",
+    "Type": "Buy",
+    "Amount": 8000,
+    "Price": 68.0147636846,
+    "RP": 86,
+    "Smallsell": 0,
+    "PV": 5849.2696768771
+  },
+  {
+    "ID": "723",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 68.3180898035,
+    "RP": 48,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "724",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 68.1438865647,
+    "RP": 49,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "725",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.0269231509,
+    "RP": 60,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "726",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.9764158581,
+    "RP": 96,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "727",
+    "Type": "Buy",
+    "Amount": 8000,
+    "Price": 68.4171177212,
+    "RP": 46,
+    "Smallsell": 0,
+    "PV": 3147.1874151773
+  },
+  {
+    "ID": "728",
+    "Type": "Buy",
+    "Amount": 9000,
+    "Price": 68.3691509796,
+    "RP": 93,
+    "Smallsell": 0,
+    "PV": 6358.3310411051
+  },
+  {
+    "ID": "729",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.6419408663,
+    "RP": 69,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "730",
+    "Type": "Sell",
+    "Amount": 4000,
+    "Price": 67.6923440469,
+    "RP": 92,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "731",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.6165420302,
+    "RP": 95,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "732",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 67.9975390578,
+    "RP": 60,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "733",
+    "Type": "Buy",
+    "Amount": 4000,
+    "Price": 67.4026082455,
+    "RP": 75,
+    "Smallsell": 0,
+    "PV": 5055.1956184119
+  },
+  {
+    "ID": "734",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.9934298846,
+    "RP": 72,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "735",
+    "Type": "Buy",
+    "Amount": 7500,
+    "Price": 67.5771761224,
+    "RP": 62,
+    "Smallsell": 0,
+    "PV": 4189.7849195876
+  },
+  {
+    "ID": "736",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 67.955986575,
+    "RP": 40,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "737",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.0720462527,
+    "RP": 43,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "738",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.7382679059,
+    "RP": 81,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "739",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 67.9488749779,
+    "RP": 49,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "740",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.7531900905,
+    "RP": 71,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "741",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.8406103947,
+    "RP": 58,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "742",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 68.0561290997,
+    "RP": 46,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "743",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.1511818113,
+    "RP": 93,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "744",
+    "Type": "Sell",
+    "Amount": 4000,
+    "Price": 68.1382450621,
+    "RP": 51,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "745",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.8912553844,
+    "RP": 53,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "746",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.5317107961,
+    "RP": 97,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "747",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 67.9083030252,
+    "RP": 57,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "748",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.0076823871,
+    "RP": 92,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "749",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.7164998507,
+    "RP": 80,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "750",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.1600031759,
+    "RP": 54,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "751",
+    "Type": "Buy",
+    "Amount": 6000,
+    "Price": 67.9399036719,
+    "RP": 62,
+    "Smallsell": 0,
+    "PV": 4212.2740276591
+  },
+  {
+    "ID": "752",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.2785132171,
+    "RP": 59,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "753",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.8466779433,
+    "RP": 79,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "754",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.9162653327,
+    "RP": 91,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "755",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.4042739742,
+    "RP": 92,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "756",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.8326956472,
+    "RP": 57,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "757",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.3749513511,
+    "RP": 55,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "758",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.4759281997,
+    "RP": 48,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "759",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.778589837,
+    "RP": 78,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "760",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.9896856053,
+    "RP": 73,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "761",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.7960098948,
+    "RP": 97,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "762",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.3188833799,
+    "RP": 65,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "763",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.8983806021,
+    "RP": 94,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "764",
+    "Type": "Sell",
+    "Amount": 4000,
+    "Price": 68.2695170118,
+    "RP": 50,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "765",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.2223632894,
+    "RP": 96,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "766",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.1318652892,
+    "RP": 89,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "767",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.3066642481,
+    "RP": 53,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "768",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 67.7950379756,
+    "RP": 80,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "769",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.0329173007,
+    "RP": 100,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "770",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.7218819873,
+    "RP": 80,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "771",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.5823298314,
+    "RP": 76,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "772",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 68.0632626735,
+    "RP": 73,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "773",
+    "Type": "Buy",
+    "Amount": 6500,
+    "Price": 67.5837854902,
+    "RP": 47,
+    "Smallsell": 0,
+    "PV": 3176.4379180396
+  },
+  {
+    "ID": "774",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 68.3361212803,
+    "RP": 93,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "775",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.1413676588,
+    "RP": 97,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "776",
+    "Type": "Buy",
+    "Amount": 6500,
+    "Price": 68.2990217527,
+    "RP": 61,
+    "Smallsell": 0,
+    "PV": 4166.240326912
+  },
+  {
+    "ID": "777",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 68.124947632,
+    "RP": 70,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "778",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.9396385812,
+    "RP": 91,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "779",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.9556961572,
+    "RP": 59,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "780",
+    "Type": "Buy",
+    "Amount": 8500,
+    "Price": 67.7866837944,
+    "RP": 100,
+    "Smallsell": 0,
+    "PV": 6778.6683794394
+  },
+  {
+    "ID": "781",
+    "Type": "Buy",
+    "Amount": 4000,
+    "Price": 68.0974715351,
+    "RP": 94,
+    "Smallsell": 0,
+    "PV": 6401.1623242988
+  },
+  {
+    "ID": "782",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.1966989164,
+    "RP": 41,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "783",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.2533195889,
+    "RP": 88,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "784",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.7021710903,
+    "RP": 41,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "785",
+    "Type": "Buy",
+    "Amount": 5500,
+    "Price": 68.0035170771,
+    "RP": 56,
+    "Smallsell": 0,
+    "PV": 3808.1969563167
+  },
+  {
+    "ID": "786",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.7480673622,
+    "RP": 62,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "787",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.1007976565,
+    "RP": 73,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "788",
+    "Type": "Buy",
+    "Amount": 7000,
+    "Price": 68.0687802256,
+    "RP": 88,
+    "Smallsell": 0,
+    "PV": 5990.0526598488
+  },
+  {
+    "ID": "789",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.7990939643,
+    "RP": 51,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "790",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.6216283706,
+    "RP": 59,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "791",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.0309308145,
+    "RP": 83,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "792",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 67.7284535575,
+    "RP": 83,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "793",
+    "Type": "Buy",
+    "Amount": 9000,
+    "Price": 68.5315077472,
+    "RP": 52,
+    "Smallsell": 0,
+    "PV": 3563.6384028557
+  },
+  {
+    "ID": "794",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.8586445497,
+    "RP": 77,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "795",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.7123778194,
+    "RP": 88,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "796",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.9988172478,
+    "RP": 89,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "797",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.1927320905,
+    "RP": 54,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "798",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.2322889173,
+    "RP": 47,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "799",
+    "Type": "Buy",
+    "Amount": 5500,
+    "Price": 68.6004957404,
+    "RP": 49,
+    "Smallsell": 0,
+    "PV": 3361.4242912786
+  },
+  {
+    "ID": "800",
+    "Type": "Buy",
+    "Amount": 6000,
+    "Price": 68.1320832885,
+    "RP": 63,
+    "Smallsell": 0,
+    "PV": 4292.3212471773
+  },
+  {
+    "ID": "801",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.4655890556,
+    "RP": 58,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "802",
+    "Type": "Buy",
+    "Amount": 9000,
+    "Price": 68.1082769795,
+    "RP": 68,
+    "Smallsell": 0,
+    "PV": 4631.3628346042
+  },
+  {
+    "ID": "803",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.0243612735,
+    "RP": 81,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "804",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.2778823309,
+    "RP": 67,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "805",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.2526095533,
+    "RP": 42,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "806",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 67.913747028,
+    "RP": 46,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "807",
+    "Type": "Buy",
+    "Amount": 5000,
+    "Price": 68.102297893,
+    "RP": 51,
+    "Smallsell": 0,
+    "PV": 3473.217192544
+  },
+  {
+    "ID": "808",
+    "Type": "Buy",
+    "Amount": 7000,
+    "Price": 68.0330671952,
+    "RP": 99,
+    "Smallsell": 0,
+    "PV": 6735.2736523211
+  },
+  {
+    "ID": "809",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.0252911641,
+    "RP": 73,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "810",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 67.7668270013,
+    "RP": 60,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "811",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.8849763731,
+    "RP": 74,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "812",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.7808034216,
+    "RP": 76,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "813",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 68.1654755311,
+    "RP": 81,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "814",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.8516935261,
+    "RP": 96,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "815",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.9481099716,
+    "RP": 63,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "816",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.3355422401,
+    "RP": 43,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "817",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.6166030718,
+    "RP": 77,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "818",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.6056294584,
+    "RP": 100,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "819",
+    "Type": "Buy",
+    "Amount": 6500,
+    "Price": 67.9723110537,
+    "RP": 66,
+    "Smallsell": 0,
+    "PV": 4486.1725295409
+  },
+  {
+    "ID": "820",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.8748904679,
+    "RP": 89,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "821",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.0463926143,
+    "RP": 79,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "822",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 68.268476034,
+    "RP": 58,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "823",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.1579480962,
+    "RP": 82,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "824",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 68.3563924024,
+    "RP": 66,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "825",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.2977013395,
+    "RP": 59,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "826",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.304195061,
+    "RP": 80,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "827",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.8822213672,
+    "RP": 86,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "828",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 67.9379185336,
+    "RP": 89,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "829",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 67.4513615587,
+    "RP": 80,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "830",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.7148078194,
+    "RP": 65,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "831",
+    "Type": "Sell",
+    "Amount": 5200,
+    "Price": 67.7563952128,
+    "RP": 43,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "832",
+    "Type": "Buy",
+    "Amount": 7500,
+    "Price": 67.5340162704,
+    "RP": 74,
+    "Smallsell": 0,
+    "PV": 4997.5172040066
+  },
+  {
+    "ID": "833",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.1740996329,
+    "RP": 76,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "834",
+    "Type": "Buy",
+    "Amount": 7000,
+    "Price": 67.731758098,
+    "RP": 42,
+    "Smallsell": 0,
+    "PV": 2844.7338401144
+  },
+  {
+    "ID": "835",
+    "Type": "Buy",
+    "Amount": 9000,
+    "Price": 67.6783073107,
+    "RP": 100,
+    "Smallsell": 0,
+    "PV": 6767.8307310739
+  },
+  {
+    "ID": "836",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.5448965388,
+    "RP": 58,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "837",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.3986094963,
+    "RP": 41,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "838",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.5317957865,
+    "RP": 60,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "839",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.067977146,
+    "RP": 54,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "840",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 67.955423079,
+    "RP": 52,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "841",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.5737538831,
+    "RP": 77,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "842",
+    "Type": "Buy",
+    "Amount": 8000,
+    "Price": 67.7380780568,
+    "RP": 83,
+    "Smallsell": 0,
+    "PV": 5622.2604787148
+  },
+  {
+    "ID": "843",
+    "Type": "Buy",
+    "Amount": 7500,
+    "Price": 68.1234665078,
+    "RP": 54,
+    "Smallsell": 0,
+    "PV": 3678.6671914191
+  },
+  {
+    "ID": "844",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.5121604555,
+    "RP": 69,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "845",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.7434044429,
+    "RP": 92,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "846",
+    "Type": "Sell",
+    "Amount": 4000,
+    "Price": 68.3482653247,
+    "RP": 47,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "847",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.999332315,
+    "RP": 79,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "848",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 67.7283454589,
+    "RP": 67,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "849",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.7507697402,
+    "RP": 51,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "850",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.2484185203,
+    "RP": 47,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "851",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.1851313201,
+    "RP": 85,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "852",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.3094734146,
+    "RP": 95,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "853",
+    "Type": "Buy",
+    "Amount": 5500,
+    "Price": 68.2878491856,
+    "RP": 40,
+    "Smallsell": 0,
+    "PV": 2731.5139674247
+  },
+  {
+    "ID": "854",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.7078994689,
+    "RP": 51,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "855",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.8346717274,
+    "RP": 55,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "856",
+    "Type": "Buy",
+    "Amount": 5000,
+    "Price": 67.7257547121,
+    "RP": 74,
+    "Smallsell": 0,
+    "PV": 5011.7058486977
+  },
+  {
+    "ID": "857",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 68.3161908345,
+    "RP": 81,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "858",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.6490357955,
+    "RP": 60,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "859",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.2477598463,
+    "RP": 59,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "860",
+    "Type": "Buy",
+    "Amount": 6500,
+    "Price": 68.0406815913,
+    "RP": 76,
+    "Smallsell": 0,
+    "PV": 5171.0918009352
+  },
+  {
+    "ID": "861",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 67.4133428602,
+    "RP": 95,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "862",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.7710513028,
+    "RP": 97,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "863",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.8681901856,
+    "RP": 95,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "864",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.9614688211,
+    "RP": 87,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "865",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.8313211429,
+    "RP": 41,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "866",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.2442588872,
+    "RP": 89,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "867",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.6375751298,
+    "RP": 92,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "868",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.0472053745,
+    "RP": 63,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "869",
+    "Type": "Buy",
+    "Amount": 5500,
+    "Price": 67.9842961282,
+    "RP": 61,
+    "Smallsell": 0,
+    "PV": 4147.042063822
+  },
+  {
+    "ID": "870",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.8582004857,
+    "RP": 100,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "871",
+    "Type": "Buy",
+    "Amount": 6500,
+    "Price": 67.7598111538,
+    "RP": 95,
+    "Smallsell": 0,
+    "PV": 6437.1820596105
+  },
+  {
+    "ID": "872",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.362682087,
+    "RP": 65,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "873",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.9783353102,
+    "RP": 88,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "874",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.2770996932,
+    "RP": 80,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "875",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.9549707724,
+    "RP": 95,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "876",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 68.1560135891,
+    "RP": 49,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "877",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.1670800725,
+    "RP": 86,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "878",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.9932291426,
+    "RP": 59,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "879",
+    "Type": "Buy",
+    "Amount": 7000,
+    "Price": 68.1769076118,
+    "RP": 90,
+    "Smallsell": 0,
+    "PV": 6135.9216850608
+  },
+  {
+    "ID": "880",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.5581137436,
+    "RP": 100,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "881",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.700747351,
+    "RP": 94,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "882",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.1675414334,
+    "RP": 87,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "883",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.2012080308,
+    "RP": 60,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "884",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.327135477,
+    "RP": 55,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "885",
+    "Type": "Buy",
+    "Amount": 6000,
+    "Price": 67.7547718852,
+    "RP": 67,
+    "Smallsell": 0,
+    "PV": 4539.569716307
+  },
+  {
+    "ID": "886",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.2497166191,
+    "RP": 43,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "887",
+    "Type": "Buy",
+    "Amount": 7500,
+    "Price": 67.6486505773,
+    "RP": 50,
+    "Smallsell": 0,
+    "PV": 3382.4325288672
+  },
+  {
+    "ID": "888",
+    "Type": "Buy",
+    "Amount": 8500,
+    "Price": 68.454155197,
+    "RP": 95,
+    "Smallsell": 0,
+    "PV": 6503.1447437163
+  },
+  {
+    "ID": "889",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 68.0595441848,
+    "RP": 80,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "890",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.9475316567,
+    "RP": 63,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "891",
+    "Type": "Buy",
+    "Amount": 5000,
+    "Price": 67.7675783126,
+    "RP": 40,
+    "Smallsell": 0,
+    "PV": 2710.7031325034
+  },
+  {
+    "ID": "892",
+    "Type": "Buy",
+    "Amount": 8000,
+    "Price": 67.8119235267,
+    "RP": 74,
+    "Smallsell": 0,
+    "PV": 5018.0823409728
+  },
+  {
+    "ID": "893",
+    "Type": "Buy",
+    "Amount": 6500,
+    "Price": 67.4093628988,
+    "RP": 46,
+    "Smallsell": 0,
+    "PV": 3100.8306933455
+  },
+  {
+    "ID": "894",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.5297718079,
+    "RP": 93,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "895",
+    "Type": "Buy",
+    "Amount": 4500,
+    "Price": 68.1556388976,
+    "RP": 47,
+    "Smallsell": 0,
+    "PV": 3203.3150281893
+  },
+  {
+    "ID": "896",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 68.6146180014,
+    "RP": 80,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "897",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.1495806938,
+    "RP": 82,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "898",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.0820946369,
+    "RP": 72,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "899",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.1523687439,
+    "RP": 67,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "900",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.9551311306,
+    "RP": 93,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "901",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.3885022903,
+    "RP": 88,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "902",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 68.4681471584,
+    "RP": 70,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "903",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.1901642124,
+    "RP": 87,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "904",
+    "Type": "Buy",
+    "Amount": 8000,
+    "Price": 67.9085168741,
+    "RP": 47,
+    "Smallsell": 0,
+    "PV": 3191.7002930816
+  },
+  {
+    "ID": "905",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 68.0195692645,
+    "RP": 81,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "906",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.0864712024,
+    "RP": 82,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "907",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.4532455407,
+    "RP": 89,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "908",
+    "Type": "Buy",
+    "Amount": 7000,
+    "Price": 67.6999222862,
+    "RP": 65,
+    "Smallsell": 0,
+    "PV": 4400.4949486008
+  },
+  {
+    "ID": "909",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.2692664255,
+    "RP": 92,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "910",
+    "Type": "Sell",
+    "Amount": 5200,
+    "Price": 68.2933990013,
+    "RP": 98,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "911",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.3215338507,
+    "RP": 83,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "912",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 67.4420041038,
+    "RP": 78,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "913",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.2582536322,
+    "RP": 65,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "914",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.0607901653,
+    "RP": 46,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "915",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 68.1152735033,
+    "RP": 48,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "916",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 67.7495916884,
+    "RP": 53,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "917",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.2270467903,
+    "RP": 79,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "918",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.7445953643,
+    "RP": 58,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "919",
+    "Type": "Buy",
+    "Amount": 9000,
+    "Price": 68.0470900615,
+    "RP": 63,
+    "Smallsell": 0,
+    "PV": 4286.9666738751
+  },
+  {
+    "ID": "920",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 67.6814559994,
+    "RP": 56,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "921",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 67.7810408992,
+    "RP": 49,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "922",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.7454142399,
+    "RP": 50,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "923",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.9484099332,
+    "RP": 49,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "924",
+    "Type": "Sell",
+    "Amount": 5200,
+    "Price": 68.2011763593,
+    "RP": 51,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "925",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 67.9072841896,
+    "RP": 71,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "926",
+    "Type": "Buy",
+    "Amount": 5000,
+    "Price": 67.8727222861,
+    "RP": 82,
+    "Smallsell": 0,
+    "PV": 5565.5632274624
+  },
+  {
+    "ID": "927",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.3479502616,
+    "RP": 97,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "928",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 68.3110574391,
+    "RP": 72,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "929",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.0209455505,
+    "RP": 93,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "930",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.9216009838,
+    "RP": 50,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "931",
+    "Type": "Sell",
+    "Amount": 5200,
+    "Price": 68.1498285797,
+    "RP": 48,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "932",
+    "Type": "Buy",
+    "Amount": 4000,
+    "Price": 68.0779398945,
+    "RP": 46,
+    "Smallsell": 0,
+    "PV": 3131.5852351476
+  },
+  {
+    "ID": "933",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.9385068541,
+    "RP": 96,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "934",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.9549445354,
+    "RP": 89,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "935",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 67.7482775541,
+    "RP": 43,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "936",
+    "Type": "Buy",
+    "Amount": 5500,
+    "Price": 67.7588684438,
+    "RP": 64,
+    "Smallsell": 0,
+    "PV": 4336.5675804064
+  },
+  {
+    "ID": "937",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.9926286973,
+    "RP": 84,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "938",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 68.2803665954,
+    "RP": 96,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "939",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.9193230487,
+    "RP": 80,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "940",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.256034357,
+    "RP": 84,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "941",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.1335813656,
+    "RP": 49,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "942",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.7444542804,
+    "RP": 50,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "943",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 67.8478067775,
+    "RP": 44,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "944",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.8605510539,
+    "RP": 93,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "945",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.0076264142,
+    "RP": 80,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "946",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 68.2494417107,
+    "RP": 89,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "947",
+    "Type": "Buy",
+    "Amount": 7000,
+    "Price": 67.9924190297,
+    "RP": 66,
+    "Smallsell": 0,
+    "PV": 4487.4996559571
+  },
+  {
+    "ID": "948",
+    "Type": "Buy",
+    "Amount": 8500,
+    "Price": 67.1711412179,
+    "RP": 80,
+    "Smallsell": 0,
+    "PV": 5373.6912974337
+  },
+  {
+    "ID": "949",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.9381764906,
+    "RP": 98,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "950",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.4196005847,
+    "RP": 64,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "951",
+    "Type": "Buy",
+    "Amount": 5000,
+    "Price": 68.014986231,
+    "RP": 55,
+    "Smallsell": 0,
+    "PV": 3740.824242705
+  },
+  {
+    "ID": "952",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.4098364712,
+    "RP": 87,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "953",
+    "Type": "Sell",
+    "Amount": 4000,
+    "Price": 67.7444741694,
+    "RP": 59,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "954",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.0253580867,
+    "RP": 42,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "955",
+    "Type": "Buy",
+    "Amount": 7500,
+    "Price": 67.7694544957,
+    "RP": 41,
+    "Smallsell": 0,
+    "PV": 2778.5476343224
+  },
+  {
+    "ID": "956",
+    "Type": "Buy",
+    "Amount": 9000,
+    "Price": 67.4808646159,
+    "RP": 73,
+    "Smallsell": 0,
+    "PV": 4926.1031169617
+  },
+  {
+    "ID": "957",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 68.1557790035,
+    "RP": 90,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "958",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 68.0136264978,
+    "RP": 43,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "959",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.3064654539,
+    "RP": 60,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "960",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.1097552897,
+    "RP": 74,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "961",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 68.3093937241,
+    "RP": 98,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "962",
+    "Type": "Sell",
+    "Amount": 4000,
+    "Price": 68.191413631,
+    "RP": 58,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "963",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.5480829577,
+    "RP": 81,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "964",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 67.8781706765,
+    "RP": 88,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "965",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 68.2549121909,
+    "RP": 60,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "966",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.0450685189,
+    "RP": 69,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "967",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.6942636645,
+    "RP": 43,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "968",
+    "Type": "Buy",
+    "Amount": 7500,
+    "Price": 67.9466715871,
+    "RP": 91,
+    "Smallsell": 0,
+    "PV": 6183.1471144256
+  },
+  {
+    "ID": "969",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 67.6361946606,
+    "RP": 85,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "970",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.2154999294,
+    "RP": 92,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "971",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.7169419314,
+    "RP": 93,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "972",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.5871748518,
+    "RP": 70,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "973",
+    "Type": "Buy",
+    "Amount": 6000,
+    "Price": 67.3952663049,
+    "RP": 65,
+    "Smallsell": 0,
+    "PV": 4380.6923098207
+  },
+  {
+    "ID": "974",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.0807599538,
+    "RP": 65,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "975",
+    "Type": "Buy",
+    "Amount": 8000,
+    "Price": 67.8005892603,
+    "RP": 56,
+    "Smallsell": 0,
+    "PV": 3796.8329985785
+  },
+  {
+    "ID": "976",
+    "Type": "Sell",
+    "Amount": 4000,
+    "Price": 67.9682865375,
+    "RP": 83,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "977",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.0616795791,
+    "RP": 73,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "978",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.9850483091,
+    "RP": 60,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "979",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.987451231,
+    "RP": 51,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "980",
+    "Type": "Buy",
+    "Amount": 4500,
+    "Price": 68.5479819546,
+    "RP": 40,
+    "Smallsell": 0,
+    "PV": 2741.9192781857
+  },
+  {
+    "ID": "981",
+    "Type": "Buy",
+    "Amount": 4000,
+    "Price": 67.8654478032,
+    "RP": 57,
+    "Smallsell": 0,
+    "PV": 3868.3305247818
+  },
+  {
+    "ID": "982",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.9711054446,
+    "RP": 44,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "983",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.888861419,
+    "RP": 96,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "984",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.1974091017,
+    "RP": 74,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "985",
+    "Type": "Sell",
+    "Amount": 4000,
+    "Price": 68.113281754,
+    "RP": 40,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "986",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.0403166379,
+    "RP": 87,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "987",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 67.8595357728,
+    "RP": 79,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "988",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 68.4153031308,
+    "RP": 88,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "989",
+    "Type": "Buy",
+    "Amount": 9000,
+    "Price": 68.1345791445,
+    "RP": 78,
+    "Smallsell": 0,
+    "PV": 5314.4971732696
+  },
+  {
+    "ID": "990",
+    "Type": "Buy",
+    "Amount": 6500,
+    "Price": 68.2844709319,
+    "RP": 60,
+    "Smallsell": 0,
+    "PV": 4097.068255912
+  },
+  {
+    "ID": "991",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.958469249,
+    "RP": 58,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "992",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.429711026,
+    "RP": 57,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "993",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.8303234849,
+    "RP": 49,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "994",
+    "Type": "Sell",
+    "Amount": 4000,
+    "Price": 67.9108453051,
+    "RP": 94,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "995",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 68.0283776476,
+    "RP": 54,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "996",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 68.2028068913,
+    "RP": 50,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "997",
+    "Type": "Buy",
+    "Amount": 5000,
+    "Price": 67.6124478758,
+    "RP": 57,
+    "Smallsell": 0,
+    "PV": 3853.9095289193
+  },
+  {
+    "ID": "998",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.9077344685,
+    "RP": 53,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "999",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.6065861983,
+    "RP": 58,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1000",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 67.7071975658,
+    "RP": 66,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1001",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.0686891898,
+    "RP": 52,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1002",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 67.3543525653,
+    "RP": 68,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1003",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.5476284756,
+    "RP": 40,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1004",
+    "Type": "Buy",
+    "Amount": 5500,
+    "Price": 68.0375499911,
+    "RP": 90,
+    "Smallsell": 0,
+    "PV": 6123.3794991988
+  },
+  {
+    "ID": "1005",
+    "Type": "Buy",
+    "Amount": 5000,
+    "Price": 68.3275477581,
+    "RP": 79,
+    "Smallsell": 0,
+    "PV": 5397.8762728873
+  },
+  {
+    "ID": "1006",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.1869596089,
+    "RP": 82,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1007",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.9594426963,
+    "RP": 53,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1008",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.945312168,
+    "RP": 80,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1009",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.9394668507,
+    "RP": 43,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1010",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 68.1710757135,
+    "RP": 80,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1011",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 68.5995978943,
+    "RP": 93,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1012",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 68.2950815432,
+    "RP": 80,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1013",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.2471396323,
+    "RP": 87,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1014",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.763646406,
+    "RP": 61,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1015",
+    "Type": "Buy",
+    "Amount": 7500,
+    "Price": 68.3584729086,
+    "RP": 59,
+    "Smallsell": 0,
+    "PV": 4033.1499016083
+  },
+  {
+    "ID": "1016",
+    "Type": "Buy",
+    "Amount": 4000,
+    "Price": 67.8359282204,
+    "RP": 67,
+    "Smallsell": 0,
+    "PV": 4545.0071907668
+  },
+  {
+    "ID": "1017",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 67.7353630131,
+    "RP": 100,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1018",
+    "Type": "Buy",
+    "Amount": 8500,
+    "Price": 68.6274733424,
+    "RP": 72,
+    "Smallsell": 0,
+    "PV": 4941.1780806518
+  },
+  {
+    "ID": "1019",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 67.419662274,
+    "RP": 65,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1020",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.7684442413,
+    "RP": 60,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1021",
+    "Type": "Buy",
+    "Amount": 8000,
+    "Price": 68.1741531148,
+    "RP": 41,
+    "Smallsell": 0,
+    "PV": 2795.1402777049
+  },
+  {
+    "ID": "1022",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 68.1165934748,
+    "RP": 53,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1023",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.1582643069,
+    "RP": 65,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1024",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.5053790453,
+    "RP": 72,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1025",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.17812063,
+    "RP": 63,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1026",
+    "Type": "Buy",
+    "Amount": 8000,
+    "Price": 68.590990807,
+    "RP": 54,
+    "Smallsell": 0,
+    "PV": 3703.9135035789
+  },
+  {
+    "ID": "1027",
+    "Type": "Buy",
+    "Amount": 7000,
+    "Price": 67.0545148244,
+    "RP": 92,
+    "Smallsell": 0,
+    "PV": 6169.0153638422
+  },
+  {
+    "ID": "1028",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.0452142948,
+    "RP": 59,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1029",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 67.8445291155,
+    "RP": 90,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1030",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.0082938111,
+    "RP": 95,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1031",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 68.5543067581,
+    "RP": 48,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1032",
+    "Type": "Sell",
+    "Amount": 5200,
+    "Price": 67.9905628543,
+    "RP": 98,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1033",
+    "Type": "Sell",
+    "Amount": 5200,
+    "Price": 67.847050725,
+    "RP": 76,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1034",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 67.688056612,
+    "RP": 92,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1035",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.1330032611,
+    "RP": 78,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1036",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 68.1262340679,
+    "RP": 97,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1037",
+    "Type": "Buy",
+    "Amount": 5000,
+    "Price": 67.9919352206,
+    "RP": 71,
+    "Smallsell": 0,
+    "PV": 4827.4274006609
+  },
+  {
+    "ID": "1038",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 67.7283701436,
+    "RP": 62,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1039",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.8249225833,
+    "RP": 71,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1040",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.2968609301,
+    "RP": 54,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1041",
+    "Type": "Sell",
+    "Amount": 5200,
+    "Price": 68.872847793,
+    "RP": 83,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1042",
+    "Type": "Buy",
+    "Amount": 9000,
+    "Price": 67.8360486387,
+    "RP": 68,
+    "Smallsell": 0,
+    "PV": 4612.8513074284
+  },
+  {
+    "ID": "1043",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.4659343149,
+    "RP": 85,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1044",
+    "Type": "Buy",
+    "Amount": 9000,
+    "Price": 67.8760674302,
+    "RP": 93,
+    "Smallsell": 0,
+    "PV": 6312.4742710086
+  },
+  {
+    "ID": "1045",
+    "Type": "Buy",
+    "Amount": 7500,
+    "Price": 68.698099756,
+    "RP": 56,
+    "Smallsell": 0,
+    "PV": 3847.0935863379
+  },
+  {
+    "ID": "1046",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.6003538072,
+    "RP": 99,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1047",
+    "Type": "Sell",
+    "Amount": 5200,
+    "Price": 67.7457909852,
+    "RP": 60,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1048",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.2078419684,
+    "RP": 74,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1049",
+    "Type": "Sell",
+    "Amount": 5200,
+    "Price": 67.9555385361,
+    "RP": 74,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1050",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.6298210361,
+    "RP": 99,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1051",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.6996550392,
+    "RP": 91,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1052",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 68.0244005723,
+    "RP": 94,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1053",
+    "Type": "Sell",
+    "Amount": 4000,
+    "Price": 68.03466265,
+    "RP": 60,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1054",
+    "Type": "Buy",
+    "Amount": 7000,
+    "Price": 68.1223221348,
+    "RP": 68,
+    "Smallsell": 0,
+    "PV": 4632.3179051694
+  },
+  {
+    "ID": "1055",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.3201981568,
+    "RP": 62,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1056",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 68.0239227638,
+    "RP": 75,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1057",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 68.3891403962,
+    "RP": 57,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1058",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.417892998,
+    "RP": 89,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1059",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.0295272145,
+    "RP": 95,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1060",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 68.2910319875,
+    "RP": 45,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1061",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 68.0170784718,
+    "RP": 79,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1062",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.0266107492,
+    "RP": 70,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1063",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.6428308759,
+    "RP": 79,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1064",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.6144349316,
+    "RP": 78,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1065",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.5709318363,
+    "RP": 80,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1066",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.16862297,
+    "RP": 86,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1067",
+    "Type": "Buy",
+    "Amount": 9000,
+    "Price": 67.8627085736,
+    "RP": 67,
+    "Smallsell": 0,
+    "PV": 4546.8014744285
+  },
+  {
+    "ID": "1068",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 68.0990725981,
+    "RP": 98,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1069",
+    "Type": "Buy",
+    "Amount": 5500,
+    "Price": 67.5170516828,
+    "RP": 81,
+    "Smallsell": 0,
+    "PV": 5468.8811863045
+  },
+  {
+    "ID": "1070",
+    "Type": "Buy",
+    "Amount": 5000,
+    "Price": 68.2942769142,
+    "RP": 59,
+    "Smallsell": 0,
+    "PV": 4029.3623379401
+  },
+  {
+    "ID": "1071",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.3622113052,
+    "RP": 42,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1072",
+    "Type": "Buy",
+    "Amount": 9000,
+    "Price": 68.0932020303,
+    "RP": 88,
+    "Smallsell": 0,
+    "PV": 5992.2017786687
+  },
+  {
+    "ID": "1073",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.050111044,
+    "RP": 73,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1074",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.7937340667,
+    "RP": 44,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1075",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.2293461125,
+    "RP": 76,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1076",
+    "Type": "Buy",
+    "Amount": 4500,
+    "Price": 68.3814555435,
+    "RP": 75,
+    "Smallsell": 0,
+    "PV": 5128.6091657643
+  },
+  {
+    "ID": "1077",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 67.8090504392,
+    "RP": 74,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1078",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.0985968186,
+    "RP": 61,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1079",
+    "Type": "Buy",
+    "Amount": 7500,
+    "Price": 67.7872284951,
+    "RP": 60,
+    "Smallsell": 0,
+    "PV": 4067.2337097075
+  },
+  {
+    "ID": "1080",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.6407201028,
+    "RP": 89,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1081",
+    "Type": "Buy",
+    "Amount": 6000,
+    "Price": 68.1011999469,
+    "RP": 41,
+    "Smallsell": 0,
+    "PV": 2792.1491978231
+  },
+  {
+    "ID": "1082",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.3018265876,
+    "RP": 93,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1083",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 68.1713885078,
+    "RP": 42,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1084",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.7017781939,
+    "RP": 55,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1085",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.4166056059,
+    "RP": 44,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1086",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.7721747211,
+    "RP": 90,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1087",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.1741136839,
+    "RP": 76,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1088",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.1368348671,
+    "RP": 68,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1089",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.079685754,
+    "RP": 80,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1090",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.0386840031,
+    "RP": 58,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1091",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.972385869,
+    "RP": 70,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1092",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.1125773401,
+    "RP": 50,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1093",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.7691308741,
+    "RP": 46,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1094",
+    "Type": "Buy",
+    "Amount": 7500,
+    "Price": 68.2813108718,
+    "RP": 58,
+    "Smallsell": 0,
+    "PV": 3960.3160305666
+  },
+  {
+    "ID": "1095",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.2548899285,
+    "RP": 52,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1096",
+    "Type": "Buy",
+    "Amount": 4500,
+    "Price": 68.4223390981,
+    "RP": 43,
+    "Smallsell": 0,
+    "PV": 2942.1605812174
+  },
+  {
+    "ID": "1097",
+    "Type": "Sell",
+    "Amount": 5200,
+    "Price": 67.6842056093,
+    "RP": 74,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1098",
+    "Type": "Sell",
+    "Amount": 5200,
+    "Price": 68.1272958295,
+    "RP": 65,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1099",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 68.024017425,
+    "RP": 59,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1100",
+    "Type": "Buy",
+    "Amount": 5500,
+    "Price": 68.3530988135,
+    "RP": 76,
+    "Smallsell": 0,
+    "PV": 5194.8355098251
+  },
+  {
+    "ID": "1101",
+    "Type": "Buy",
+    "Amount": 7500,
+    "Price": 67.9972861026,
+    "RP": 57,
+    "Smallsell": 0,
+    "PV": 3875.845307848
+  },
+  {
+    "ID": "1102",
+    "Type": "Sell",
+    "Amount": 4000,
+    "Price": 68.2244476242,
+    "RP": 50,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1103",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.8589600018,
+    "RP": 45,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1104",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.7938113234,
+    "RP": 55,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1105",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.9997405389,
+    "RP": 62,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1106",
+    "Type": "Sell",
+    "Amount": 5200,
+    "Price": 67.891952721,
+    "RP": 52,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1107",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 68.1528648023,
+    "RP": 93,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1108",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.2841507415,
+    "RP": 85,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1109",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.3599775212,
+    "RP": 45,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1110",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.254244706,
+    "RP": 51,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1111",
+    "Type": "Buy",
+    "Amount": 6000,
+    "Price": 67.9830946695,
+    "RP": 60,
+    "Smallsell": 0,
+    "PV": 4078.9856801703
+  },
+  {
+    "ID": "1112",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.792056972,
+    "RP": 62,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1113",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.3212972841,
+    "RP": 68,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1114",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.7583266738,
+    "RP": 47,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1115",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.8941632481,
+    "RP": 76,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1116",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.4339401454,
+    "RP": 68,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1117",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 67.8091079918,
+    "RP": 51,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1118",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.8829928016,
+    "RP": 83,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1119",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.9955080732,
+    "RP": 60,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1120",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 68.2796987147,
+    "RP": 60,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1121",
+    "Type": "Buy",
+    "Amount": 6500,
+    "Price": 68.542851674,
+    "RP": 88,
+    "Smallsell": 0,
+    "PV": 6031.770947311
+  },
+  {
+    "ID": "1122",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.2132601013,
+    "RP": 41,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1123",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 67.8756115414,
+    "RP": 72,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1124",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.0250113325,
+    "RP": 68,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1125",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 68.1485202059,
+    "RP": 88,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1126",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.7337654062,
+    "RP": 72,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1127",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.1115689758,
+    "RP": 71,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1128",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.3553326891,
+    "RP": 69,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1129",
+    "Type": "Buy",
+    "Amount": 8500,
+    "Price": 68.2339921945,
+    "RP": 67,
+    "Smallsell": 0,
+    "PV": 4571.6774770319
+  },
+  {
+    "ID": "1130",
+    "Type": "Buy",
+    "Amount": 9000,
+    "Price": 67.9642353352,
+    "RP": 73,
+    "Smallsell": 0,
+    "PV": 4961.3891794671
+  },
+  {
+    "ID": "1131",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.1056936137,
+    "RP": 95,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1132",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.963151962,
+    "RP": 45,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1133",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 68.1737588613,
+    "RP": 40,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1134",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 67.7761753543,
+    "RP": 91,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1135",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.7742807077,
+    "RP": 55,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1136",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.0938658256,
+    "RP": 87,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1137",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.7965159567,
+    "RP": 43,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1138",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.8421708507,
+    "RP": 85,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1139",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.0894553044,
+    "RP": 42,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1140",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 67.8903557542,
+    "RP": 76,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1141",
+    "Type": "Buy",
+    "Amount": 7500,
+    "Price": 67.7563007287,
+    "RP": 43,
+    "Smallsell": 0,
+    "PV": 2913.5209313348
+  },
+  {
+    "ID": "1142",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.0300608278,
+    "RP": 93,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1143",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.0088149722,
+    "RP": 75,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1144",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 67.9383957417,
+    "RP": 67,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1145",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.7832143576,
+    "RP": 45,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1146",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.7584965021,
+    "RP": 50,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1147",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.9109282253,
+    "RP": 59,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1148",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.6454076732,
+    "RP": 41,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1149",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.0932942185,
+    "RP": 56,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1150",
+    "Type": "Sell",
+    "Amount": 5200,
+    "Price": 68.1857217132,
+    "RP": 41,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1151",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.5995057905,
+    "RP": 43,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1152",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.6103147299,
+    "RP": 42,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1153",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.2968265677,
+    "RP": 84,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1154",
+    "Type": "Buy",
+    "Amount": 5500,
+    "Price": 68.0653996736,
+    "RP": 77,
+    "Smallsell": 0,
+    "PV": 5241.0357748688
+  },
+  {
+    "ID": "1155",
+    "Type": "Buy",
+    "Amount": 5000,
+    "Price": 67.9846154837,
+    "RP": 80,
+    "Smallsell": 0,
+    "PV": 5438.7692386947
+  },
+  {
+    "ID": "1156",
+    "Type": "Buy",
+    "Amount": 5000,
+    "Price": 68.1230671508,
+    "RP": 78,
+    "Smallsell": 0,
+    "PV": 5313.5992377653
+  },
+  {
+    "ID": "1157",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 68.2914924163,
+    "RP": 66,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1158",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.3603745192,
+    "RP": 87,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1159",
+    "Type": "Buy",
+    "Amount": 5500,
+    "Price": 68.0349877432,
+    "RP": 40,
+    "Smallsell": 0,
+    "PV": 2721.3995097277
+  },
+  {
+    "ID": "1160",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.9844236821,
+    "RP": 74,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1161",
+    "Type": "Sell",
+    "Amount": 5200,
+    "Price": 67.7276485348,
+    "RP": 95,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1162",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.3485077324,
+    "RP": 90,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1163",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 68.0254501261,
+    "RP": 59,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1164",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.5145042253,
+    "RP": 80,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1165",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.9803540029,
+    "RP": 78,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1166",
+    "Type": "Buy",
+    "Amount": 6500,
+    "Price": 68.7004854979,
+    "RP": 62,
+    "Smallsell": 0,
+    "PV": 4259.4301008674
+  },
+  {
+    "ID": "1167",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 67.9290641453,
+    "RP": 68,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1168",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.9712634119,
+    "RP": 43,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1169",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.9561540816,
+    "RP": 45,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1170",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.6061127944,
+    "RP": 79,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1171",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.8578967966,
+    "RP": 76,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1172",
+    "Type": "Buy",
+    "Amount": 5500,
+    "Price": 68.0519182038,
+    "RP": 98,
+    "Smallsell": 0,
+    "PV": 6669.0879839772
+  },
+  {
+    "ID": "1173",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.0975660311,
+    "RP": 68,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1174",
+    "Type": "Sell",
+    "Amount": 4000,
+    "Price": 67.9901311332,
+    "RP": 91,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1175",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.8113203353,
+    "RP": 83,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1176",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.4477505566,
+    "RP": 50,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1177",
+    "Type": "Sell",
+    "Amount": 4000,
+    "Price": 67.7786073665,
+    "RP": 67,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1178",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.3954905985,
+    "RP": 47,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1179",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.3140345642,
+    "RP": 48,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1180",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.6576549479,
+    "RP": 64,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1181",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.8323806108,
+    "RP": 72,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1182",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.7388318287,
+    "RP": 56,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1183",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.9994401648,
+    "RP": 78,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1184",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.6892287093,
+    "RP": 82,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1185",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.9252483351,
+    "RP": 74,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1186",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.9494243833,
+    "RP": 60,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1187",
+    "Type": "Buy",
+    "Amount": 6000,
+    "Price": 68.2638760898,
+    "RP": 73,
+    "Smallsell": 0,
+    "PV": 4983.2629545545
+  },
+  {
+    "ID": "1188",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.0636581544,
+    "RP": 56,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1189",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.0397658023,
+    "RP": 85,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1190",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.7433935362,
+    "RP": 78,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1191",
+    "Type": "Sell",
+    "Amount": 5200,
+    "Price": 68.198645409,
+    "RP": 60,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1192",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 68.0689598338,
+    "RP": 62,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1193",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 67.9821634639,
+    "RP": 79,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1194",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.9656206203,
+    "RP": 46,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1195",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.0331753344,
+    "RP": 55,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1196",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.7674771384,
+    "RP": 77,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1197",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.337198342,
+    "RP": 83,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1198",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 68.31299402,
+    "RP": 69,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1199",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.6369895655,
+    "RP": 51,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1200",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 68.2403767894,
+    "RP": 77,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1201",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.4667064981,
+    "RP": 40,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1202",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.3663467422,
+    "RP": 81,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1203",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.8387395883,
+    "RP": 40,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1204",
+    "Type": "Buy",
+    "Amount": 7000,
+    "Price": 68.0867555298,
+    "RP": 50,
+    "Smallsell": 0,
+    "PV": 3404.3377764915
+  },
+  {
+    "ID": "1205",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.1218642852,
+    "RP": 62,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1206",
+    "Type": "Buy",
+    "Amount": 8000,
+    "Price": 67.3820036768,
+    "RP": 47,
+    "Smallsell": 0,
+    "PV": 3166.954172809
+  },
+  {
+    "ID": "1207",
+    "Type": "Buy",
+    "Amount": 8500,
+    "Price": 67.4922778806,
+    "RP": 88,
+    "Smallsell": 0,
+    "PV": 5939.3204534952
+  },
+  {
+    "ID": "1208",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.650431513,
+    "RP": 59,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1209",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.8539038,
+    "RP": 84,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1210",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.5308230576,
+    "RP": 49,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1211",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 67.816031241,
+    "RP": 42,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1212",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.3960742052,
+    "RP": 80,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1213",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.6201791362,
+    "RP": 79,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1214",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 68.0203372331,
+    "RP": 93,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1215",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.1811423722,
+    "RP": 68,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1216",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.4511498861,
+    "RP": 72,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1217",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 68.3320073968,
+    "RP": 60,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1218",
+    "Type": "Buy",
+    "Amount": 8000,
+    "Price": 68.178107684,
+    "RP": 56,
+    "Smallsell": 0,
+    "PV": 3817.9740303021
+  },
+  {
+    "ID": "1219",
+    "Type": "Buy",
+    "Amount": 7500,
+    "Price": 68.2307001039,
+    "RP": 42,
+    "Smallsell": 0,
+    "PV": 2865.6894043648
+  },
+  {
+    "ID": "1220",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.5273708072,
+    "RP": 41,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1221",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.3852737743,
+    "RP": 52,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1222",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.0623716413,
+    "RP": 85,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1223",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.1921934815,
+    "RP": 80,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1224",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.3001457642,
+    "RP": 67,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1225",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.6117521109,
+    "RP": 60,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1226",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.0713998989,
+    "RP": 57,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1227",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.9393346201,
+    "RP": 63,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1228",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.4842313229,
+    "RP": 76,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1229",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 68.0715605154,
+    "RP": 94,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1230",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.3099133861,
+    "RP": 74,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1231",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.1727860501,
+    "RP": 87,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1232",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.9428300743,
+    "RP": 51,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1233",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.930748143,
+    "RP": 62,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1234",
+    "Type": "Buy",
+    "Amount": 9000,
+    "Price": 68.2756582777,
+    "RP": 100,
+    "Smallsell": 0,
+    "PV": 6827.5658277688
+  },
+  {
+    "ID": "1235",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.5458824613,
+    "RP": 79,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1236",
+    "Type": "Buy",
+    "Amount": 5500,
+    "Price": 68.3582321714,
+    "RP": 65,
+    "Smallsell": 0,
+    "PV": 4443.2850911415
+  },
+  {
+    "ID": "1237",
+    "Type": "Buy",
+    "Amount": 4500,
+    "Price": 68.3905371934,
+    "RP": 87,
+    "Smallsell": 0,
+    "PV": 5949.9767358292
+  },
+  {
+    "ID": "1238",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.2515249866,
+    "RP": 80,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1239",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.94295602,
+    "RP": 82,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1240",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.7106523069,
+    "RP": 64,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1241",
+    "Type": "Buy",
+    "Amount": 7500,
+    "Price": 67.7776891621,
+    "RP": 42,
+    "Smallsell": 0,
+    "PV": 2846.6629448071
+  },
+  {
+    "ID": "1242",
+    "Type": "Buy",
+    "Amount": 7500,
+    "Price": 68.144706479,
+    "RP": 42,
+    "Smallsell": 0,
+    "PV": 2862.0776721179
+  },
+  {
+    "ID": "1243",
+    "Type": "Buy",
+    "Amount": 8000,
+    "Price": 67.6581431273,
+    "RP": 48,
+    "Smallsell": 0,
+    "PV": 3247.5908701104
+  },
+  {
+    "ID": "1244",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.4155525832,
+    "RP": 47,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1245",
+    "Type": "Buy",
+    "Amount": 5500,
+    "Price": 68.049920344,
+    "RP": 61,
+    "Smallsell": 0,
+    "PV": 4151.0451409829
+  },
+  {
+    "ID": "1246",
+    "Type": "Buy",
+    "Amount": 4500,
+    "Price": 68.4738229192,
+    "RP": 85,
+    "Smallsell": 0,
+    "PV": 5820.2749481356
+  },
+  {
+    "ID": "1247",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.8489306359,
+    "RP": 78,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1248",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.0277568621,
+    "RP": 63,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1249",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.2192579345,
+    "RP": 80,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1250",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.2098946118,
+    "RP": 48,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1251",
+    "Type": "Buy",
+    "Amount": 9000,
+    "Price": 67.6998330836,
+    "RP": 68,
+    "Smallsell": 0,
+    "PV": 4603.5886496846
+  },
+  {
+    "ID": "1252",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.5145448812,
+    "RP": 74,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1253",
+    "Type": "Sell",
+    "Amount": 4000,
+    "Price": 67.5975782603,
+    "RP": 99,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1254",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.5593269381,
+    "RP": 79,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1255",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 67.9899373435,
+    "RP": 81,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1256",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 68.2315774571,
+    "RP": 97,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1257",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.6327077212,
+    "RP": 58,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1258",
+    "Type": "Sell",
+    "Amount": 5200,
+    "Price": 68.0997308055,
+    "RP": 54,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1259",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.3277649928,
+    "RP": 80,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1260",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.8953360387,
+    "RP": 99,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1261",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.418421168,
+    "RP": 50,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1262",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.8713914388,
+    "RP": 99,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1263",
+    "Type": "Buy",
+    "Amount": 8500,
+    "Price": 68.2806906688,
+    "RP": 83,
+    "Smallsell": 0,
+    "PV": 5667.297325512
+  },
+  {
+    "ID": "1264",
+    "Type": "Sell",
+    "Amount": 5200,
+    "Price": 68.0833046821,
+    "RP": 86,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1265",
+    "Type": "Sell",
+    "Amount": 4800,
+    "Price": 68.399660173,
+    "RP": 69,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1266",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.8910546663,
+    "RP": 60,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1267",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.8508907512,
+    "RP": 99,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1268",
+    "Type": "Sell",
+    "Amount": 5200,
+    "Price": 67.5139656066,
+    "RP": 75,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1269",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.2139419155,
+    "RP": 58,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1270",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.1242816015,
+    "RP": 65,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1271",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 67.5482725255,
+    "RP": 72,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1272",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.2736760616,
+    "RP": 74,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1273",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.3619699177,
+    "RP": 88,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1274",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 68.0545613818,
+    "RP": 99,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1275",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.2524400883,
+    "RP": 64,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1276",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 67.4119498674,
+    "RP": 43,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1277",
+    "Type": "Sell",
+    "Amount": 4400,
+    "Price": 68.4331586203,
+    "RP": 89,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1278",
+    "Type": "Buy",
+    "Amount": 5500,
+    "Price": 67.7708596723,
+    "RP": 66,
+    "Smallsell": 0,
+    "PV": 4472.8767383742
+  },
+  {
+    "ID": "1279",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.0742406684,
+    "RP": 75,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1280",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.1368511047,
+    "RP": 67,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1281",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 68.2247979938,
+    "RP": 54,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1282",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.1096479999,
+    "RP": 100,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1283",
+    "Type": "Sell",
+    "Amount": 6000,
+    "Price": 68.1427508835,
+    "RP": 47,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1284",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 68.1318171945,
+    "RP": 41,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1285",
+    "Type": "Sell",
+    "Amount": 600,
+    "Price": 67.9115782758,
+    "RP": 96,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1286",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.6996055476,
+    "RP": 82,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1287",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 67.9204486706,
+    "RP": 43,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1288",
+    "Type": "Buy",
+    "Amount": 7500,
+    "Price": 67.9174197919,
+    "RP": 52,
+    "Smallsell": 0,
+    "PV": 3531.7058291807
+  },
+  {
+    "ID": "1289",
+    "Type": "Sell",
+    "Amount": 500,
+    "Price": 67.6090710839,
+    "RP": 55,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1290",
+    "Type": "Sell",
+    "Amount": 5600,
+    "Price": 68.1048352236,
+    "RP": 79,
+    "Smallsell": 0,
+    "PV": 0.0
+  },
+  {
+    "ID": "1291",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.2209970479,
+    "RP": 65,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1292",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.0283742923,
+    "RP": 91,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1293",
+    "Type": "Buy",
+    "Amount": 8000,
+    "Price": 68.0425741296,
+    "RP": 98,
+    "Smallsell": 0,
+    "PV": 6668.1722647001
+  },
+  {
+    "ID": "1294",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.3561027793,
+    "RP": 43,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1295",
+    "Type": "Buy",
+    "Amount": 4500,
+    "Price": 68.1753045252,
+    "RP": 96,
+    "Smallsell": 0,
+    "PV": 6544.8292344185
+  },
+  {
+    "ID": "1296",
+    "Type": "Sell",
+    "Amount": 700,
+    "Price": 68.4982047834,
+    "RP": 77,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1297",
+    "Type": "Buy",
+    "Amount": 4000,
+    "Price": 68.5366404275,
+    "RP": 55,
+    "Smallsell": 0,
+    "PV": 3769.5152235143
+  },
+  {
+    "ID": "1298",
+    "Type": "Sell",
+    "Amount": 400,
+    "Price": 68.185945364,
+    "RP": 93,
+    "Smallsell": 1,
+    "PV": 0.0
+  },
+  {
+    "ID": "1299",
+    "Type": "Sell",
+    "Amount": 300,
+    "Price": 67.7610537002,
+    "RP": 79,
+    "Smallsell": 1,
+    "PV": 0.0
+  }
+]

@@ -1,0 +1,22127 @@
+export const evidenceData = {
+  "source_note": "Parsed from downloaded Fabric CLI log files in experiments/correctness_results",
+  "network": {
+    "channel": "mychannel",
+    "chaincode": "money_demo",
+    "chaincode_instantiated": true,
+    "before_height": 3,
+    "after_height": 4,
+    "current_block_hash": "7VcNQ8imvHXBPC3Hcea19kg3cCQVvUQFvOt7UaYjVKo=",
+    "previous_block_hash": "aUDIkR4Qyyd18prRXo8i4Qxor0rARrWMA/W+tnNOGxo=",
+    "block_number": "3",
+    "transaction_id": "c21e21ff45931eae03dbc1bcad6bd6ccce024530318783563386c6f2c9168aad"
+  },
+  "evidence": {
+    "register": {
+      "label": "register",
+      "before_height": 3,
+      "after_height": 4,
+      "current_block_hash": "7VcNQ8imvHXBPC3Hcea19kg3cCQVvUQFvOt7UaYjVKo=",
+      "previous_block_hash": "aUDIkR4Qyyd18prRXo8i4Qxor0rARrWMA/W+tnNOGxo=",
+      "block_number": "3",
+      "data_hash": "L7WWyzdxPL/IDnciezOIdyAsMPyhyqZmj0JEhTktHME=",
+      "transaction_id": "c21e21ff45931eae03dbc1bcad6bd6ccce024530318783563386c6f2c9168aad",
+      "timestamp": "2026-05-27T07:06:31.813Z"
+    },
+    "emission": {
+      "label": "emission",
+      "before_height": 4,
+      "after_height": 5,
+      "current_block_hash": "0j3YU7AACX2733+4nS4kZf9mxdC44w2mk9YybJBHT0M=",
+      "previous_block_hash": "7VcNQ8imvHXBPC3Hcea19kg3cCQVvUQFvOt7UaYjVKo=",
+      "block_number": "4",
+      "data_hash": "imqpI/KrFDchg0CQRI/qK9FavoRPgwF1zjl34Dm9C9Y=",
+      "transaction_id": "0cbc91e5ccd6babfe3ca4ba43f574d1003c0c7725020be8b84cd35a79a53617f",
+      "timestamp": "2026-05-27T07:09:12.071Z"
+    },
+    "revenue": {
+      "label": "revenue",
+      "before_height": 5,
+      "after_height": 6,
+      "current_block_hash": "wzAvxKgvldgf0GV6ghA6aIFcCuo+O+sigU8c05UGJhs=",
+      "previous_block_hash": "0j3YU7AACX2733+4nS4kZf9mxdC44w2mk9YybJBHT0M=",
+      "block_number": "5",
+      "data_hash": "L0tOm2L+zK2hMAI97wld7Zw4wZXHPQ2G4/hG2Vjogdk=",
+      "transaction_id": "d577c66ad542c5f4d4a67a8a4f209782a4c73fd8ef74a0654263d1b84443d015",
+      "timestamp": "2026-05-27T07:16:19.732Z"
+    }
+  },
+  "project": {
+    "project_id": "GD001001",
+    "project_name": "Energy Retrofit Project for Building 1-8",
+    "facility_manager": "LYJ",
+    "verifier": "Carbon Emissions Audit Institution",
+    "registration_time": "2025-11-15",
+    "remaining_credit": "0",
+    "status": "Pending"
+  },
+  "emissions": [
+    {
+      "unit_id": 1,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 2,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 3,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 4,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 5,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 6,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 7,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 8,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 9,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 10,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 11,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 12,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 13,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 14,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 15,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 16,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 17,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 18,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 19,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 20,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 21,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 22,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 23,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 24,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 25,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 26,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 27,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 28,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 29,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 30,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 31,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 32,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 33,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 34,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 35,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 36,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 37,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 38,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 39,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 40,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 41,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 42,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 43,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 44,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 45,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 46,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 47,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 48,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 49,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 50,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 51,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 52,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 53,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 54,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 55,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 56,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 57,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 58,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 59,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 60,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 61,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 62,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 63,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 64,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 65,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 66,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 67,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 68,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 69,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 70,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 71,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 72,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 73,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 74,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 75,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 76,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 77,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 78,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 79,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 80,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 81,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 82,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 83,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 84,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 85,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 86,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 87,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 88,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 89,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 90,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 91,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 92,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 93,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 94,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 95,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 96,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 97,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 98,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 99,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 100,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 101,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 102,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 103,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 104,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 105,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 106,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 107,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 108,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 109,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 110,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 111,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 112,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 113,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 114,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 115,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 116,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 117,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 118,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 119,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 120,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 121,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 122,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 123,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 124,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 125,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 126,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 127,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 128,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 129,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 130,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 131,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 132,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 133,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 134,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 135,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 136,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 137,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 138,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 139,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 140,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 141,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 142,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 143,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 144,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 145,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 146,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 147,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 148,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 149,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 150,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 151,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 152,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 153,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 154,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 155,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 156,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 157,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 158,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 159,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 160,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 161,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 162,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 163,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 164,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 165,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 166,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 167,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 168,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 169,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 170,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 171,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 172,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 173,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 174,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 175,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 176,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 177,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 178,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 179,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 180,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 181,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 182,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 183,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 184,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 185,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 186,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 187,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 188,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 189,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 190,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 191,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 192,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 193,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 194,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 195,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 196,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 197,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 198,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 199,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 200,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 201,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 202,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 203,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 204,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 205,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 206,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 207,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 208,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 209,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 210,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 211,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 212,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 213,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 214,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 215,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 216,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 217,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 218,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 219,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 220,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 221,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 222,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 223,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 224,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 225,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 226,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 227,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 228,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 229,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 230,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 231,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 232,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 233,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 234,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 235,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 236,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 237,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 238,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 239,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 240,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 241,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 242,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 243,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 244,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 245,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 246,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 247,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 248,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 249,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 250,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 251,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 252,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 253,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 254,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 255,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 256,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 257,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 258,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 259,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 260,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 261,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 262,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 263,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 264,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 265,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 266,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 267,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 268,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 269,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 270,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 271,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 272,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 273,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 274,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 275,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 276,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 277,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 278,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 279,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 280,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 281,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 282,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 283,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 284,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 285,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 286,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 287,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 288,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 289,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 290,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 291,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 292,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 293,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 294,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 295,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 296,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 297,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 298,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 299,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 300,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 301,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 302,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 303,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 304,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 305,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 306,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 307,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 308,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 309,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 310,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 311,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 312,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 313,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 314,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 315,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 316,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 317,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 318,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 319,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 320,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 321,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 322,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 323,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 324,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 325,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 326,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 327,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 328,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 329,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 330,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 331,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 332,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 333,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 334,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 335,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 336,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 337,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 338,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 339,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 340,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 341,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 342,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 343,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 344,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 345,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 346,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 347,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 348,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 349,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 350,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 351,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 352,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 353,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 354,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 355,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 356,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 357,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 358,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 359,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 360,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 361,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 362,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 363,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 364,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 365,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 366,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 367,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 368,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 369,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 370,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 371,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 372,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 373,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 374,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 375,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 376,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 377,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 378,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 379,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 380,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 381,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 382,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 383,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 384,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 385,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 386,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 387,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 388,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 389,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 390,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 391,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 392,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 393,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 394,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 395,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 396,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 397,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 398,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 399,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 400,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 401,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 402,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 403,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 404,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 405,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 406,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 407,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 408,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 409,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 410,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 411,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 412,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 413,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 414,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 415,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 416,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 417,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 418,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 419,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 420,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 421,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 422,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 423,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 424,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 425,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 426,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 427,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 428,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 429,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 430,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 431,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 432,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 433,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 434,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 435,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 436,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 437,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 438,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 439,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 440,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 441,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 442,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 443,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 444,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 445,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 446,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 447,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 448,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 449,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 450,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 451,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 452,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 453,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 454,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 455,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 456,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 457,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 458,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 459,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 460,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 461,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 462,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 463,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 464,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 465,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 466,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 467,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 468,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 469,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 470,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 471,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 472,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 473,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 474,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 475,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 476,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 477,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 478,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 479,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 480,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 481,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 482,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 483,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 484,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 485,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 486,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 487,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 488,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 489,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 490,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 491,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 492,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 493,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 494,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 495,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 496,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 497,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 498,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 499,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 500,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 501,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 502,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 503,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 504,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 505,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 506,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 507,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 508,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 509,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 510,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 511,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 512,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 513,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 514,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 515,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 516,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 517,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 518,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 519,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 520,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 521,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 522,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 523,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 524,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 525,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 526,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 527,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 528,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 529,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 530,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 531,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 532,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 533,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 534,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 535,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 536,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 537,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 538,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 539,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 540,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 541,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 542,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 543,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 544,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 545,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 546,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 547,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 548,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 549,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 550,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 551,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 552,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 553,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 554,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 555,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 556,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 557,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 558,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 559,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 560,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 561,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 562,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 563,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 564,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 565,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 566,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 567,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 568,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 569,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 570,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 571,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 572,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 573,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 574,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 575,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 576,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 577,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 578,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 579,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 580,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 581,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 582,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 583,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 584,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 585,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 586,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 587,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 588,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 589,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 590,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 591,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 592,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 593,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 594,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 595,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 596,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 597,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 598,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 599,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 600,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 601,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 602,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 603,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 604,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 605,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 606,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 607,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 608,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 609,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 610,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 611,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 612,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 613,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 614,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 615,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 616,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 617,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 618,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 619,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 620,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 621,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 622,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 623,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 624,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 625,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 626,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 627,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 628,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 629,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 630,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 631,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 632,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 633,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 634,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 635,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 636,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 637,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 638,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 639,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 640,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 641,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 642,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 643,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 644,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 645,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 646,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 647,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 648,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 649,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 650,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 651,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 652,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 653,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 654,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 655,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 656,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 657,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 658,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 659,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 660,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 661,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 662,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 663,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 664,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 665,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 666,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 667,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 668,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 669,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 670,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 671,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 672,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 673,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 674,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 675,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 676,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 677,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 678,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 679,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 680,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 681,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 682,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 683,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 684,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 685,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 686,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 687,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 688,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 689,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 690,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 691,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 692,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 693,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 694,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 695,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 696,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 697,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 698,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 699,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 700,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 701,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 702,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 703,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 704,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 705,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 706,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 707,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 708,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 709,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 710,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 711,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 712,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 713,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 714,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 715,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 716,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 717,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 718,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 719,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 720,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 721,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 722,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 723,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 724,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 725,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 726,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 727,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 728,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 729,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 730,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 731,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 732,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 733,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 734,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 735,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 736,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 737,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 738,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 739,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 740,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 741,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 742,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 743,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 744,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 745,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 746,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 747,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 748,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 749,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 750,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 751,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 752,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 753,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 754,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 755,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 756,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 757,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 758,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 759,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 760,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 761,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 762,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 763,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 764,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 765,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 766,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 767,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 768,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 769,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 770,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 771,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 772,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 773,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 774,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 775,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 776,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 777,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 778,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 779,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 780,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 781,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 782,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 783,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 784,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 785,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 786,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 787,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 788,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 789,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 790,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 791,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 792,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 793,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 794,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 795,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 796,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 797,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 798,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 799,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 800,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 801,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 802,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 803,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 804,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 805,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 806,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 807,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 808,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 809,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 810,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 811,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 812,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 813,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 814,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 815,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 816,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 817,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 818,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 819,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 820,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 821,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 822,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 823,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 824,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 825,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 826,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 827,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 828,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 829,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 830,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 831,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 832,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 833,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 834,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 835,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 836,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 837,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 838,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 839,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 840,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 841,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 842,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 843,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 844,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 845,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 846,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 847,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 848,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 849,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 850,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 851,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 852,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 853,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 854,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 855,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 856,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 857,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 858,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 859,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 860,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 861,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 862,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 863,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 864,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 865,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 866,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 867,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 868,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 869,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 870,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 871,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 872,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 873,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 874,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 875,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 876,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 877,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 878,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 879,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 880,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 881,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 882,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 883,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 884,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 885,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 886,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 887,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 888,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 889,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 890,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 891,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 892,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 893,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 894,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 895,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 896,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 897,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 898,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 899,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 900,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 901,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 902,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 903,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 904,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 905,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 906,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 907,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 908,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 909,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 910,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 911,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 912,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 913,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 914,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 915,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 916,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 917,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 918,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 919,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 920,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 921,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 922,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 923,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 924,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 925,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 926,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 927,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 928,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 929,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 930,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 931,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 932,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 933,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 934,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 935,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 936,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 937,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 938,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 939,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 940,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 941,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 942,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 943,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 944,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 945,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 946,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 947,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 948,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 949,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 950,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 951,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 952,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 953,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 954,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 955,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 956,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 957,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 958,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 959,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 960,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 961,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 962,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 963,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 964,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 965,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 966,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 967,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 968,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 969,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 970,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 971,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 972,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 973,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 974,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 975,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 976,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 977,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 978,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 979,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 980,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 981,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 982,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 983,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 984,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 985,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 986,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 987,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 988,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 989,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 990,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 991,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 992,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 993,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 994,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 995,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 996,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 997,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 998,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 999,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1000,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1001,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1002,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1003,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1004,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1005,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1006,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1007,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1008,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1009,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1010,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1011,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1012,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1013,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1014,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1015,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1016,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1017,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1018,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1019,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1020,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1021,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1022,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1023,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1024,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1025,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1026,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1027,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1028,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1029,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1030,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1031,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1032,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1033,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1034,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1035,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1036,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1037,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1038,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1039,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1040,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1041,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1042,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1043,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1044,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1045,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1046,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1047,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1048,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1049,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1050,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1051,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1052,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1053,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1054,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1055,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1056,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1057,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1058,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1059,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1060,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1061,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1062,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1063,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1064,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1065,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1066,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1067,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1068,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1069,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1070,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1071,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1072,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1073,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1074,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1075,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1076,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1077,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1078,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1079,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1080,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1081,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1082,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1083,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1084,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1085,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1086,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1087,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1088,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1089,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1090,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1091,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1092,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1093,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1094,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1095,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1096,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1097,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1098,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1099,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1100,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1101,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1102,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1103,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1104,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1105,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1106,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1107,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1108,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1109,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1110,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1111,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1112,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1113,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1114,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1115,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1116,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1117,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1118,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1119,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1120,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1121,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1122,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1123,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1124,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1125,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1126,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1127,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1128,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1129,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1130,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1131,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1132,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1133,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1134,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1135,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1136,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1137,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1138,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1139,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1140,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1141,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1142,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1143,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1144,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1145,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1146,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1147,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1148,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1149,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1150,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1151,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1152,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1153,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1154,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1155,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1156,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1157,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1158,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1159,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1160,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1161,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1162,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1163,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1164,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1165,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1166,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1167,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1168,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1169,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1170,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1171,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1172,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1173,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1174,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1175,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1176,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1177,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1178,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1179,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1180,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1181,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1182,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1183,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1184,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1185,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1186,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1187,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1188,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1189,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1190,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1191,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1192,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1193,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1194,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1195,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1196,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1197,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1198,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1199,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1200,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1201,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1202,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1203,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1204,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1205,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1206,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1207,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1208,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1209,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1210,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1211,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1212,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1213,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1214,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1215,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1216,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1217,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1218,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1219,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1220,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1221,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1222,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1223,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1224,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1225,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1226,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1227,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1228,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1229,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1230,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1231,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1232,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1233,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1234,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1235,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1236,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1237,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1238,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1239,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1240,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1241,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1242,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1243,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1244,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1245,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1246,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1247,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1248,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1249,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1250,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1251,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1252,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1253,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1254,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1255,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1256,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1257,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1258,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1259,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1260,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1261,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1262,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1263,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1264,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1265,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1266,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1267,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1268,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1269,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1270,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1271,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1272,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1273,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1274,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1275,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1276,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1277,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1278,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1279,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1280,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1281,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1282,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1283,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1284,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1285,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1286,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1287,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1288,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1289,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1290,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1291,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1292,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1293,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1294,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1295,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1296,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1297,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1298,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1299,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1300,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1301,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1302,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1303,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1304,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1305,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1306,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1307,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1308,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1309,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1310,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1311,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1312,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1313,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1314,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1315,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1316,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1317,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1318,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1319,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1320,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1321,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1322,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1323,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1324,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1325,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1326,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1327,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1328,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1329,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1330,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1331,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1332,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1333,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1334,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1335,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1336,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1337,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1338,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1339,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1340,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1341,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1342,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1343,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1344,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1345,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1346,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1347,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1348,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1349,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1350,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1351,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1352,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1353,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1354,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1355,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1356,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1357,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1358,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1359,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1360,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1361,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1362,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1363,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1364,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1365,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1366,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1367,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1368,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1369,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1370,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1371,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1372,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1373,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1374,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1375,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1376,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1377,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1378,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1379,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1380,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1381,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1382,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1383,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1384,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1385,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1386,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1387,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1388,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1389,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1390,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1391,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1392,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1393,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1394,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1395,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1396,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1397,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1398,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1399,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1400,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1401,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1402,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1403,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1404,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1405,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1406,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1407,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1408,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1409,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1410,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1411,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1412,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1413,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1414,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1415,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1416,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1417,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1418,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1419,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1420,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1421,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1422,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1423,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1424,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1425,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1426,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1427,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1428,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1429,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1430,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1431,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1432,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1433,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1434,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1435,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1436,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1437,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1438,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1439,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1440,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1441,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1442,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1443,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1444,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1445,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1446,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1447,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1448,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1449,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1450,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1451,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1452,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1453,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1454,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1455,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1456,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1457,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1458,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1459,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1460,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1461,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1462,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1463,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1464,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1465,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1466,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1467,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1468,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1469,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1470,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1471,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1472,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1473,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1474,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1475,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1476,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1477,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1478,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1479,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1480,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1481,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1482,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1483,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1484,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1485,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1486,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1487,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1488,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1489,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1490,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1491,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1492,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1493,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1494,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1495,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1496,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1497,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1498,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1499,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1500,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1501,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1502,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1503,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1504,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1505,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1506,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1507,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1508,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1509,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1510,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1511,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1512,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1513,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1514,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1515,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1516,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1517,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1518,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1519,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1520,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1521,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1522,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1523,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1524,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1525,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1526,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1527,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1528,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1529,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1530,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1531,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1532,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1533,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1534,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1535,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1536,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1537,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1538,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1539,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1540,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1541,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1542,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1543,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1544,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1545,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1546,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1547,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1548,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1549,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1550,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1551,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1552,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1553,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1554,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1555,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1556,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1557,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1558,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1559,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1560,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1561,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1562,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1563,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1564,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1565,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1566,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1567,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1568,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1569,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1570,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1571,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1572,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1573,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1574,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1575,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1576,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1577,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1578,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1579,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1580,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1581,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1582,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1583,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1584,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1585,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1586,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1587,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1588,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1589,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1590,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1591,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1592,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1593,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1594,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1595,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1596,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1597,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1598,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1599,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1600,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1601,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1602,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1603,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1604,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1605,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1606,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1607,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1608,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1609,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1610,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1611,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1612,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1613,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1614,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1615,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1616,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1617,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1618,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1619,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1620,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1621,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1622,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1623,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1624,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1625,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1626,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1627,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1628,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1629,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1630,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1631,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1632,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1633,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1634,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1635,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1636,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1637,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1638,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1639,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1640,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1641,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1642,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1643,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1644,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1645,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1646,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1647,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1648,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1649,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1650,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1651,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1652,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1653,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1654,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1655,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1656,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1657,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1658,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1659,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1660,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1661,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1662,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1663,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1664,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1665,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1666,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1667,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1668,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1669,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1670,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1671,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1672,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1673,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1674,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1675,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1676,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1677,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1678,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1679,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1680,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1681,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1682,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1683,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1684,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1685,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1686,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1687,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1688,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1689,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1690,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1691,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1692,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1693,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1694,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1695,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1696,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1697,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1698,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1699,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1700,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1701,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1702,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1703,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1704,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1705,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1706,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1707,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1708,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1709,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1710,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1711,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1712,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1713,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1714,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1715,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1716,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1717,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1718,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1719,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1720,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1721,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1722,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1723,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1724,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1725,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1726,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1727,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1728,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1729,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1730,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1731,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1732,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1733,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1734,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1735,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1736,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1737,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1738,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1739,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1740,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1741,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1742,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1743,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1744,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1745,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1746,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1747,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1748,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1749,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1750,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1751,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1752,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1753,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1754,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1755,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1756,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1757,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1758,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1759,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1760,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1761,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1762,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1763,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1764,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1765,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1766,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1767,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1768,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1769,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1770,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1771,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1772,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1773,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1774,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1775,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1776,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1777,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1778,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1779,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1780,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1781,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1782,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1783,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1784,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1785,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1786,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1787,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1788,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1789,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1790,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1791,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1792,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1793,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1794,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1795,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1796,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1797,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1798,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1799,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1800,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1801,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1802,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1803,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1804,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1805,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1806,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1807,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1808,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1809,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1810,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1811,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1812,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1813,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1814,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1815,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1816,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1817,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1818,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1819,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1820,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1821,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1822,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1823,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1824,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1825,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1826,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1827,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1828,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1829,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1830,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1831,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1832,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1833,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1834,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1835,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1836,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1837,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1838,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1839,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1840,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1841,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1842,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1843,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1844,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1845,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1846,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1847,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1848,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1849,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1850,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1851,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1852,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1853,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1854,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1855,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1856,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1857,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1858,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1859,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1860,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1861,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1862,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1863,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1864,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1865,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1866,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1867,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1868,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1869,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1870,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1871,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1872,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1873,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1874,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1875,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1876,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1877,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1878,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1879,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1880,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1881,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1882,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1883,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1884,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1885,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1886,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1887,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1888,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1889,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1890,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1891,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1892,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1893,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1894,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1895,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1896,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1897,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1898,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1899,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1900,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1901,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1902,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1903,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1904,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1905,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1906,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1907,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1908,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1909,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1910,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1911,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1912,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1913,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1914,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1915,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1916,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1917,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1918,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1919,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1920,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1921,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1922,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1923,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1924,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1925,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1926,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1927,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1928,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1929,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1930,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1931,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1932,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1933,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1934,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1935,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1936,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1937,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1938,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1939,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1940,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1941,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1942,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1943,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1944,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1945,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1946,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1947,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1948,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1949,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1950,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1951,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1952,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1953,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1954,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1955,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1956,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1957,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1958,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1959,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1960,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1961,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1962,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1963,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1964,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1965,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1966,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1967,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1968,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1969,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1970,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1971,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1972,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1973,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1974,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1975,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1976,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1977,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1978,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1979,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1980,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1981,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1982,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1983,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1984,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1985,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1986,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1987,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1988,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1989,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 1990,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    },
+    {
+      "unit_id": 1991,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 33600
+    },
+    {
+      "unit_id": 1992,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 29400
+    },
+    {
+      "unit_id": 1993,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 25200
+    },
+    {
+      "unit_id": 1994,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 21000
+    },
+    {
+      "unit_id": 1995,
+      "accounting_time": "2025-11-15",
+      "energy_type": "gas",
+      "emission_reduction": 16800
+    },
+    {
+      "unit_id": 1996,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 35040
+    },
+    {
+      "unit_id": 1997,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 29200
+    },
+    {
+      "unit_id": 1998,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 23360
+    },
+    {
+      "unit_id": 1999,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 17520
+    },
+    {
+      "unit_id": 2000,
+      "accounting_time": "2025-11-15",
+      "energy_type": "electricity",
+      "emission_reduction": 11680
+    }
+  ],
+  "revenue": [
+    {
+      "unit_id": "FM",
+      "revenue_time": "2025-11-19",
+      "revenue": 330.208000000001
+    },
+    {
+      "unit_id": "1",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "2",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "3",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "4",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "5",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "6",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "7",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "8",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "9",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "10",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "11",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "12",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "13",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "14",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "15",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "16",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "17",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "18",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "19",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "20",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "21",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "22",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "23",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "24",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "25",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "26",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "27",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "28",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "29",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "30",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "31",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "32",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "33",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "34",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "35",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "36",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "37",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "38",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "39",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "40",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "41",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "42",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "43",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "44",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "45",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "46",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "47",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "48",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "49",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "50",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "51",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "52",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "53",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "54",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "55",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "56",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "57",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "58",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "59",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "60",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "61",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "62",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "63",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "64",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "65",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "66",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "67",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "68",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "69",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "70",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "71",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "72",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "73",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "74",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "75",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "76",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "77",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "78",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "79",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "80",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "81",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "82",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "83",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "84",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "85",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "86",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "87",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "88",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "89",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "90",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "91",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "92",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "93",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "94",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "95",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "96",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "97",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "98",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "99",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "100",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "101",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "102",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "103",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "104",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "105",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "106",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "107",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "108",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "109",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "110",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "111",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "112",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "113",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "114",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "115",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "116",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "117",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "118",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "119",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "120",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "121",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "122",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "123",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "124",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "125",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "126",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "127",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "128",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "129",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "130",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "131",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "132",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "133",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "134",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "135",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "136",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "137",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "138",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "139",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "140",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "141",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "142",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "143",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "144",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "145",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "146",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "147",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "148",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "149",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "150",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "151",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "152",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "153",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "154",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "155",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "156",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "157",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "158",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "159",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "160",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "161",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "162",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "163",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "164",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "165",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "166",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "167",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "168",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "169",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "170",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "171",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "172",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "173",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "174",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "175",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "176",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "177",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "178",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "179",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "180",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "181",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "182",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "183",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "184",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "185",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "186",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "187",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "188",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "189",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "190",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "191",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "192",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "193",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "194",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "195",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "196",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "197",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "198",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "199",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "200",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "201",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "202",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "203",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "204",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "205",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "206",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "207",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "208",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "209",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "210",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "211",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "212",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "213",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "214",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "215",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "216",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "217",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "218",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "219",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "220",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "221",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "222",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "223",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "224",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "225",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "226",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "227",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "228",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "229",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "230",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "231",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "232",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "233",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "234",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "235",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "236",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "237",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "238",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "239",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "240",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "241",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "242",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "243",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "244",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "245",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "246",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "247",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "248",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "249",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "250",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "251",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "252",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "253",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "254",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "255",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "256",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "257",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "258",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "259",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "260",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "261",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "262",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "263",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "264",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "265",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "266",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "267",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "268",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "269",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "270",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "271",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "272",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "273",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "274",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "275",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "276",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "277",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "278",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "279",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "280",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "281",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "282",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "283",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "284",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "285",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "286",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "287",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "288",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "289",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "290",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "291",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "292",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "293",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "294",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "295",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "296",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "297",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "298",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "299",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "300",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "301",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "302",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "303",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "304",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "305",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "306",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "307",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "308",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "309",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "310",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "311",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "312",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "313",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "314",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "315",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "316",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "317",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "318",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "319",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "320",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "321",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "322",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "323",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "324",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "325",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "326",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "327",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "328",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "329",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "330",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "331",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "332",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "333",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "334",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "335",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "336",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "337",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "338",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "339",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "340",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "341",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "342",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "343",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "344",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "345",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "346",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "347",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "348",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "349",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "350",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "351",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "352",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "353",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "354",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "355",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "356",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "357",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "358",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "359",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "360",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "361",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "362",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "363",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "364",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "365",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "366",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "367",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "368",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "369",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "370",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "371",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "372",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "373",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "374",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "375",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "376",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "377",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "378",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "379",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "380",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "381",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "382",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "383",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "384",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "385",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "386",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "387",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "388",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "389",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "390",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "391",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "392",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "393",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "394",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "395",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "396",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "397",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "398",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "399",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "400",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "401",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "402",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "403",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "404",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "405",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "406",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "407",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "408",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "409",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "410",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "411",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "412",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "413",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "414",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "415",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "416",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "417",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "418",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "419",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "420",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "421",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "422",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "423",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "424",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "425",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "426",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "427",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "428",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "429",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "430",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "431",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "432",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "433",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "434",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "435",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "436",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "437",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "438",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "439",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "440",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "441",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "442",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "443",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "444",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "445",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "446",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "447",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "448",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "449",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "450",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "451",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "452",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "453",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "454",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "455",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "456",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "457",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "458",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "459",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "460",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "461",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "462",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "463",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "464",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "465",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "466",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "467",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "468",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "469",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "470",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "471",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "472",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "473",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "474",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "475",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "476",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "477",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "478",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "479",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "480",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "481",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "482",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "483",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "484",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "485",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "486",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "487",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "488",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "489",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "490",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "491",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "492",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "493",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "494",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "495",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "496",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "497",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "498",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "499",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "500",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "501",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "502",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "503",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "504",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "505",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "506",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "507",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "508",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "509",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "510",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "511",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "512",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "513",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "514",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "515",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "516",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "517",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "518",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "519",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "520",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "521",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "522",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "523",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "524",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "525",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "526",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "527",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "528",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "529",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "530",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "531",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "532",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "533",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "534",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "535",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "536",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "537",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "538",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "539",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "540",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "541",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "542",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "543",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "544",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "545",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "546",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "547",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "548",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "549",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "550",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "551",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "552",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "553",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "554",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "555",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "556",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "557",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "558",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "559",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "560",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "561",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "562",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "563",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "564",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "565",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "566",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "567",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "568",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "569",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "570",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "571",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "572",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "573",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "574",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "575",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "576",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "577",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "578",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "579",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "580",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "581",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "582",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "583",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "584",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "585",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "586",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "587",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "588",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "589",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "590",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "591",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "592",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "593",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "594",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "595",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "596",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "597",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "598",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "599",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "600",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "601",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "602",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "603",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "604",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "605",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "606",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "607",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "608",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "609",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "610",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "611",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "612",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "613",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "614",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "615",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "616",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "617",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "618",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "619",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "620",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "621",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "622",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "623",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "624",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "625",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "626",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "627",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "628",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "629",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "630",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "631",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "632",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "633",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "634",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "635",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "636",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "637",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "638",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "639",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "640",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "641",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "642",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "643",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "644",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "645",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "646",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "647",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "648",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "649",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "650",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "651",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "652",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "653",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "654",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "655",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "656",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "657",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "658",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "659",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "660",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "661",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "662",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "663",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "664",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "665",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "666",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "667",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "668",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "669",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "670",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "671",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "672",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "673",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "674",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "675",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "676",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "677",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "678",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "679",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "680",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "681",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "682",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "683",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "684",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "685",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "686",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "687",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "688",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "689",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "690",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "691",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "692",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "693",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "694",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "695",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "696",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "697",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "698",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "699",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "700",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "701",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "702",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "703",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "704",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "705",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "706",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "707",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "708",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "709",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "710",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "711",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "712",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "713",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "714",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "715",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "716",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "717",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "718",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "719",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "720",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "721",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "722",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "723",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "724",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "725",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "726",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "727",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "728",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "729",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "730",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "731",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "732",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "733",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "734",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "735",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "736",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "737",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "738",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "739",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "740",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "741",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "742",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "743",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "744",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "745",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "746",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "747",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "748",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "749",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "750",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "751",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "752",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "753",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "754",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "755",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "756",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "757",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "758",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "759",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "760",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "761",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "762",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "763",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "764",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "765",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "766",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "767",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "768",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "769",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "770",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "771",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "772",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "773",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "774",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "775",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "776",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "777",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "778",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "779",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "780",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "781",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "782",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "783",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "784",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "785",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "786",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "787",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "788",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "789",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "790",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "791",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "792",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "793",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "794",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "795",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "796",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "797",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "798",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "799",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "800",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "801",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "802",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "803",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "804",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "805",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "806",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "807",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "808",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "809",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "810",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "811",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "812",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "813",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "814",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "815",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "816",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "817",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "818",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "819",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "820",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "821",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "822",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "823",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "824",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "825",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "826",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "827",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "828",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "829",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "830",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "831",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "832",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "833",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "834",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "835",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "836",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "837",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "838",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "839",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "840",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "841",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "842",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "843",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "844",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "845",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "846",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "847",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "848",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "849",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "850",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "851",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "852",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "853",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "854",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "855",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "856",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "857",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "858",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "859",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "860",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "861",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "862",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "863",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "864",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "865",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "866",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "867",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "868",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "869",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "870",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "871",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "872",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "873",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "874",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "875",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "876",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "877",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "878",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "879",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "880",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "881",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "882",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "883",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "884",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "885",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "886",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "887",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "888",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "889",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "890",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "891",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "892",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "893",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "894",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "895",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "896",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "897",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "898",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "899",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "900",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "901",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "902",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "903",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "904",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "905",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "906",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "907",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "908",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "909",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "910",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "911",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "912",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "913",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "914",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "915",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "916",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "917",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "918",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "919",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "920",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "921",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "922",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "923",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "924",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "925",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "926",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "927",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "928",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "929",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "930",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "931",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "932",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "933",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "934",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "935",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "936",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "937",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "938",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "939",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "940",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "941",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "942",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "943",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "944",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "945",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "946",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "947",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "948",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "949",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "950",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "951",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "952",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "953",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "954",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "955",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "956",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "957",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "958",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "959",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "960",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "961",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "962",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "963",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "964",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "965",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "966",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "967",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "968",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "969",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "970",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "971",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "972",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "973",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "974",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "975",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "976",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "977",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "978",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "979",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "980",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "981",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "982",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "983",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "984",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "985",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "986",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "987",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "988",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "989",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "990",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "991",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "992",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "993",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "994",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "995",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "996",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "997",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "998",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "999",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1000",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1001",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1002",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1003",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1004",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1005",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1006",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1007",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1008",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1009",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1010",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1011",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1012",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1013",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1014",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1015",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1016",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1017",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1018",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1019",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1020",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1021",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1022",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1023",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1024",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1025",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1026",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1027",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1028",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1029",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1030",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1031",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1032",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1033",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1034",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1035",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1036",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1037",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1038",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1039",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1040",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1041",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1042",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1043",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1044",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1045",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1046",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1047",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1048",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1049",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1050",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1051",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1052",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1053",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1054",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1055",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1056",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1057",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1058",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1059",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1060",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1061",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1062",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1063",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1064",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1065",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1066",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1067",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1068",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1069",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1070",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1071",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1072",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1073",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1074",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1075",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1076",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1077",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1078",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1079",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1080",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1081",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1082",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1083",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1084",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1085",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1086",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1087",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1088",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1089",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1090",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1091",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1092",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1093",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1094",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1095",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1096",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1097",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1098",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1099",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1100",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1101",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1102",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1103",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1104",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1105",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1106",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1107",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1108",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1109",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1110",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1111",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1112",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1113",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1114",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1115",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1116",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1117",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1118",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1119",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1120",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1121",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1122",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1123",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1124",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1125",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1126",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1127",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1128",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1129",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1130",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1131",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1132",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1133",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1134",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1135",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1136",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1137",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1138",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1139",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1140",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1141",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1142",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1143",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1144",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1145",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1146",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1147",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1148",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1149",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1150",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1151",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1152",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1153",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1154",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1155",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1156",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1157",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1158",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1159",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1160",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1161",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1162",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1163",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1164",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1165",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1166",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1167",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1168",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1169",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1170",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1171",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1172",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1173",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1174",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1175",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1176",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1177",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1178",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1179",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1180",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1181",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1182",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1183",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1184",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1185",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1186",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1187",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1188",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1189",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1190",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1191",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1192",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1193",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1194",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1195",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1196",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1197",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1198",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1199",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1200",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1201",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1202",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1203",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1204",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1205",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1206",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1207",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1208",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1209",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1210",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1211",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1212",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1213",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1214",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1215",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1216",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1217",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1218",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1219",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1220",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1221",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1222",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1223",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1224",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1225",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1226",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1227",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1228",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1229",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1230",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1231",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1232",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1233",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1234",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1235",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1236",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1237",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1238",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1239",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1240",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1241",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1242",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1243",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1244",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1245",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1246",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1247",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1248",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1249",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1250",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1251",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1252",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1253",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1254",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1255",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1256",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1257",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1258",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1259",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1260",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1261",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1262",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1263",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1264",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1265",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1266",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1267",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1268",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1269",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1270",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1271",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1272",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1273",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1274",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1275",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1276",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1277",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1278",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1279",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1280",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1281",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1282",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1283",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1284",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1285",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1286",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1287",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1288",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1289",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1290",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1291",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1292",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1293",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1294",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1295",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1296",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1297",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1298",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1299",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1300",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1301",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1302",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1303",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1304",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1305",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1306",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1307",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1308",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1309",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1310",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1311",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1312",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1313",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1314",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1315",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1316",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1317",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1318",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1319",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1320",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1321",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1322",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1323",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1324",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1325",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1326",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1327",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1328",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1329",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1330",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1331",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1332",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1333",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1334",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1335",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1336",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1337",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1338",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1339",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1340",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1341",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1342",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1343",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1344",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1345",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1346",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1347",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1348",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1349",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1350",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1351",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1352",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1353",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1354",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1355",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1356",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1357",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1358",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1359",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1360",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1361",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1362",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1363",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1364",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1365",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1366",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1367",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1368",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1369",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1370",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1371",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1372",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1373",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1374",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1375",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1376",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1377",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1378",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1379",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1380",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1381",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1382",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1383",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1384",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1385",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1386",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1387",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1388",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1389",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1390",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1391",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1392",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1393",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1394",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1395",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1396",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1397",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1398",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1399",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1400",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1401",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1402",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1403",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1404",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1405",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1406",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1407",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1408",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1409",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1410",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1411",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1412",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1413",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1414",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1415",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1416",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1417",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1418",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1419",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1420",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1421",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1422",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1423",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1424",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1425",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1426",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1427",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1428",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1429",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1430",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1431",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1432",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1433",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1434",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1435",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1436",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1437",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1438",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1439",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1440",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1441",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1442",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1443",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1444",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1445",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1446",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1447",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1448",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1449",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1450",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1451",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1452",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1453",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1454",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1455",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1456",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1457",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1458",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1459",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1460",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1461",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1462",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1463",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1464",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1465",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1466",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1467",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1468",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1469",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1470",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1471",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1472",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1473",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1474",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1475",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1476",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1477",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1478",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1479",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1480",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1481",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1482",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1483",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1484",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1485",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1486",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1487",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1488",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1489",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1490",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1491",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1492",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1493",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1494",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1495",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1496",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1497",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1498",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1499",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1500",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1501",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1502",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1503",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1504",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1505",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1506",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1507",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1508",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1509",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1510",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1511",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1512",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1513",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1514",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1515",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1516",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1517",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1518",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1519",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1520",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1521",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1522",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1523",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1524",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1525",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1526",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1527",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1528",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1529",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1530",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1531",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1532",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1533",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1534",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1535",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1536",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1537",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1538",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1539",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1540",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1541",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1542",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1543",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1544",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1545",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1546",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1547",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1548",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1549",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1550",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1551",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1552",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1553",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1554",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1555",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1556",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1557",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1558",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1559",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1560",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1561",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1562",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1563",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1564",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1565",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1566",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1567",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1568",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1569",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1570",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1571",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1572",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1573",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1574",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1575",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1576",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1577",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1578",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1579",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1580",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1581",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1582",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1583",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1584",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1585",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1586",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1587",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1588",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1589",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1590",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1591",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1592",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1593",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1594",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1595",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1596",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1597",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1598",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1599",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1600",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1601",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1602",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1603",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1604",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1605",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1606",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1607",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1608",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1609",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1610",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1611",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1612",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1613",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1614",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1615",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1616",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1617",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1618",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1619",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1620",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1621",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1622",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1623",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1624",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1625",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1626",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1627",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1628",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1629",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1630",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1631",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1632",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1633",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1634",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1635",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1636",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1637",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1638",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1639",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1640",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1641",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1642",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1643",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1644",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1645",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1646",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1647",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1648",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1649",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1650",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1651",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1652",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1653",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1654",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1655",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1656",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1657",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1658",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1659",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1660",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1661",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1662",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1663",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1664",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1665",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1666",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1667",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1668",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1669",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1670",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1671",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1672",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1673",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1674",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1675",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1676",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1677",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1678",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1679",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1680",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1681",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1682",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1683",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1684",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1685",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1686",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1687",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1688",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1689",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1690",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1691",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1692",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1693",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1694",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1695",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1696",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1697",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1698",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1699",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1700",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1701",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1702",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1703",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1704",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1705",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1706",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1707",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1708",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1709",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1710",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1711",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1712",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1713",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1714",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1715",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1716",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1717",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1718",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1719",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1720",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1721",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1722",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1723",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1724",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1725",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1726",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1727",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1728",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1729",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1730",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1731",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1732",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1733",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1734",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1735",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1736",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1737",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1738",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1739",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1740",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1741",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1742",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1743",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1744",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1745",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1746",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1747",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1748",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1749",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1750",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1751",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1752",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1753",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1754",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1755",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1756",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1757",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1758",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1759",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1760",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1761",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1762",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1763",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1764",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1765",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1766",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1767",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1768",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1769",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1770",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1771",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1772",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1773",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1774",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1775",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1776",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1777",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1778",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1779",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1780",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1781",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1782",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1783",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1784",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1785",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1786",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1787",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1788",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1789",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1790",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1791",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1792",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1793",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1794",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1795",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1796",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1797",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1798",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1799",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1800",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1801",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1802",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1803",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1804",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1805",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1806",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1807",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1808",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1809",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1810",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1811",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1812",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1813",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1814",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1815",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1816",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1817",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1818",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1819",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1820",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1821",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1822",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1823",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1824",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1825",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1826",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1827",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1828",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1829",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1830",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1831",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1832",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1833",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1834",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1835",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1836",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1837",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1838",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1839",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1840",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1841",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1842",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1843",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1844",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1845",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1846",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1847",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1848",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1849",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1850",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1851",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1852",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1853",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1854",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1855",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1856",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1857",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1858",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1859",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1860",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1861",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1862",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1863",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1864",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1865",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1866",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1867",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1868",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1869",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1870",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1871",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1872",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1873",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1874",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1875",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1876",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1877",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1878",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1879",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1880",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1881",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1882",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1883",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1884",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1885",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1886",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1887",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1888",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1889",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1890",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1891",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1892",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1893",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1894",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1895",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1896",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1897",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1898",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1899",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1900",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1901",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1902",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1903",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1904",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1905",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1906",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1907",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1908",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1909",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1910",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1911",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1912",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1913",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1914",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1915",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1916",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1917",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1918",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1919",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1920",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1921",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1922",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1923",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1924",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1925",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1926",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1927",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1928",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1929",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1930",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1931",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1932",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1933",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1934",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1935",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1936",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1937",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1938",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1939",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1940",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1941",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1942",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1943",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1944",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1945",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1946",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1947",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1948",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1949",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1950",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1951",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1952",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1953",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1954",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1955",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1956",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1957",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1958",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1959",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1960",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1961",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1962",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1963",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1964",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1965",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1966",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1967",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1968",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1969",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1970",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1971",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1972",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1973",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1974",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1975",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1976",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1977",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1978",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1979",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1980",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1981",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1982",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1983",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1984",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1985",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1986",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1987",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1988",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1989",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "1990",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    },
+    {
+      "unit_id": "1991",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.05632
+    },
+    {
+      "unit_id": "1992",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.7992799999999998
+    },
+    {
+      "unit_id": "1993",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.5422399999999998
+    },
+    {
+      "unit_id": "1994",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.2852
+    },
+    {
+      "unit_id": "1995",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.02816
+    },
+    {
+      "unit_id": "1996",
+      "revenue_time": "2025-11-19",
+      "revenue": 2.144448
+    },
+    {
+      "unit_id": "1997",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.78704
+    },
+    {
+      "unit_id": "1998",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.429632
+    },
+    {
+      "unit_id": "1999",
+      "revenue_time": "2025-11-19",
+      "revenue": 1.072224
+    },
+    {
+      "unit_id": "2000",
+      "revenue_time": "2025-11-19",
+      "revenue": 0.714816
+    }
+  ],
+  "tests": [
+    {
+      "id": "T1",
+      "test": "Project registration",
+      "expected": "Project state is committed",
+      "observed": "QueryProject returned GD001001",
+      "status": "Pass"
+    },
+    {
+      "id": "T2",
+      "test": "Duplicate registration rejection",
+      "expected": "Duplicate project ID is rejected",
+      "observed": "Project already exists",
+      "status": "Pass"
+    },
+    {
+      "id": "T3",
+      "test": "CER calculation",
+      "expected": "Unit values match expected calculation",
+      "observed": "2000 unit records; total 48,560,000 gCO2e",
+      "status": "Pass"
+    },
+    {
+      "id": "T4",
+      "test": "Invalid energy type rejection",
+      "expected": "Unsupported energy type is rejected",
+      "observed": "invalid energy_type",
+      "status": "Pass"
+    },
+    {
+      "id": "T5",
+      "test": "Revenue allocation",
+      "expected": "68 CNY/credit; FM 10%; remaining revenue by CER contribution",
+      "observed": "FM 330.21 CNY; total 3302.08 CNY",
+      "status": "Pass"
+    },
+    {
+      "id": "T6",
+      "test": "Revenue ledger query",
+      "expected": "Stored revenue record is queryable",
+      "observed": "Not captured",
+      "status": "Not captured"
+    },
+    {
+      "id": "T7",
+      "test": "Manual revenue input rejection",
+      "expected": "Revenue is derived from CER and carbon price, not manually supplied",
+      "observed": "manual revenue argument rejected",
+      "status": "Pass"
+    }
+  ],
+  "metrics": {
+    "pass_count": 6,
+    "test_count": 7,
+    "total_reduction_gco2e": 48560000,
+    "total_reduction_tco2e": 48.56,
+    "total_revenue_cny": 3302.0800000000295,
+    "fm_revenue_cny": 330.208000000001,
+    "participant_revenue_cny": 2971.8720000000285
+  }
+};

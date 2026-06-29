@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Fabric Execution Report</title>
+<style>
+:root{--ink:#111d2d;--muted:#607184;--line:#d5e0e8;--page:#f3f6f8;--panel:#fff;--navy:#0f1b2b;--navy2:#17263a;--green:#12805c}
+*{box-sizing:border-box}body{margin:0;background:var(--page);color:var(--ink);font-family:Inter,Segoe UI,Arial,sans-serif;letter-spacing:0}.page{width:1860px;margin:0 auto;padding:28px}header{display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:18px}h1{margin:0;font-size:44px;line-height:1.08}header p{margin:9px 0 0;color:var(--muted);font-size:20px}.badge{background:#fff;border:1px solid var(--line);border-radius:8px;padding:13px 17px;font-weight:900;font-size:16px}.group{margin-top:18px}.group-hd{background:#fff;border:1px solid var(--line);border-radius:9px;padding:15px 20px;margin-bottom:12px}.group-hd h2{font-size:30px;margin:0}.group-hd p{font-size:18px;color:var(--muted);margin:6px 0 0}.block-card,.source-card,.parsed-card,.check-card{background:#fff;border:1px solid var(--line);border-radius:9px;margin-bottom:12px;overflow:hidden}.block-title,.source-title{height:56px;display:flex;justify-content:space-between;align-items:center;padding:0 18px;border-bottom:1px solid var(--line);background:#fbfcfd}.block-title h3,.source-title h3{font-size:23px;margin:0}.block-title span,.source-title span{color:var(--muted);font-weight:800;font-size:15px}.block-grid,.source-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;padding:13px}.block-grid div,.source-grid div{border:1px solid #e1e8ef;border-radius:8px;padding:11px 13px;min-width:0}.block-grid div.wide{grid-column:span 2}.source-grid div{grid-column:span 1}.block-grid span,.source-grid span,.parsed-stats span,.checks span{display:block;color:var(--muted);font-size:13px;font-weight:900;text-transform:uppercase}.block-grid strong,.source-grid strong,.parsed-stats strong,.checks strong{display:block;margin-top:6px;font-size:19px;line-height:1.22}.parsed-stats,.checks{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;padding:13px;border-bottom:1px solid var(--line)}.checks{grid-template-columns:repeat(2,1fr);border-bottom:0}.parsed-stats div,.checks div{border:1px solid #e1e8ef;border-radius:8px;padding:11px 13px}.formula{padding:16px 20px;font-size:18px;color:var(--ink);border-bottom:1px solid var(--line)}table{width:100%;border-collapse:collapse;font-size:17px}th,td{padding:8px 18px;border-bottom:1px solid #e6edf3;text-align:left}th{color:var(--muted);font-size:13px;text-transform:uppercase}.mono{font-family:Consolas,Menlo,monospace;overflow-wrap:anywhere}.term,.payload-log{background:var(--navy);color:#dce6f1;border-radius:9px;overflow:hidden;border:1px solid #26364a;margin-bottom:12px}.parsed-card .payload-log{border-radius:0;border-width:1px 0 0;margin:0}.term-hd{height:50px;background:var(--navy2);display:flex;align-items:center;justify-content:space-between;padding:0 18px;border-bottom:1px solid #2a3a50}.term h3{font-size:19px;margin:0;color:#fff}.term-hd span{font-size:14px;color:#a9b7c8;font-weight:800}.cmd{padding:10px 18px;border-bottom:1px solid #26364a;color:#9ee2bb;font-family:Consolas,Menlo,monospace;font-size:16px}.term pre,.payload-log pre{margin:0;padding:12px 18px;white-space:pre-wrap;word-break:break-word;font-family:Consolas,Menlo,monospace;font-size:15px;line-height:1.35;max-height:150px;overflow:auto}.term.compact pre{max-height:135px}.evidence-stack{display:grid;grid-template-columns:1fr;gap:0}.subtle{color:var(--muted);font-size:15px;margin-top:10px}
+</style>
+</head>
+<body>
+<main class="page">
+<header><div><h1>Hyperledger Fabric Execution Report</h1><p>Smart-contract correctness evidence from the PBFT Fabric prototype network</p></div><div class="badge">Source: experiments/correctness_results</div></header>
+<section class="group"><div class="group-hd"><div><h2>Deployment Confirmation</h2><p>The deployed chaincode was confirmed before function-level validation.</p></div></div><div class="evidence-stack"><section class="term compact"><div class="term-hd"><h3>Chaincode Instantiation</h3><span>captured</span></div><div class="cmd">$ peer chaincode list --instantiated -C mychannel</div><pre>Get instantiated chaincodes on channel mychannel:
+Name: money_demo, Version: 1.0, Path: github.com/chaincode/demo/, Escc: escc, Vscc: vscc</pre></section></div></section>
+<section class="group"><div class="group-hd"><div><h2>Function 1: Project Registry</h2><p>Registration, ledger-state query, duplicate-ID rejection, and block-level confirmation.</p></div></div><div class="evidence-stack">
+    <section class="block-card">
+    <div class="block-title"><h3>Project Registry Block Summary</h3><span>Block-level evidence decoded from Fabric ledger</span></div>
+    <div class="block-grid">
+      <div><span>Height change</span><strong>3 -> 4</strong></div>
+      <div><span>Block number</span><strong>3</strong></div>
+      <div><span>Channel</span><strong>mychannel</strong></div>
+      <div><span>Timestamp</span><strong class="mono">2026-05-27T07:06:31.813Z</strong></div>
+      <div class="wide"><span>Current block hash</span><strong class="mono">7VcNQ8imvHXBPC3Hcea19kg3cCQVvUQFvOt7UaYjVKo=</strong></div>
+      <div class="wide"><span>Previous block hash</span><strong class="mono">aUDIkR4Qyyd18prRXo8i4Qxor0rARrWMA/W+tnNOGxo=</strong></div>
+      <div class="wide"><span>Transaction ID</span><strong class="mono">c21e21ff45931eae03dbc1bcad6bd6ccce024530318783563386c6f2c9168aad</strong></div>
+      <div class="wide"><span>Data hash</span><strong class="mono">L7WWyzdxPL/IDnciezOIdyAsMPyhyqZmj0JEhTktHME=</strong></div>
+    </div>
+  </section>
+    <section class="term compact"><div class="term-hd"><h3>Project Registration Invoke</h3><span>captured</span></div><div class="cmd">$ peer chaincode invoke ... register GD001001</div><pre>2026-05-27T07:06:31.855Z [fabric-sdk] Chaincode invoke successful. result: status:200</pre></section>
+    <section class="term compact"><div class="term-hd"><h3>Project State Query</h3><span>captured</span></div><div class="cmd">$ peer chaincode query ... QueryProject GD001001</div><pre>GD001001|Energy Retrofit Project for Building 1-8|LYJ|Carbon Emissions Audit Institution|2025-11-15|0|Pending</pre></section>
+    <section class="term compact"><div class="term-hd"><h3>Duplicate Registration Rejection</h3><span>captured</span></div><div class="cmd">$ peer chaincode invoke ... register GD001001</div><pre>Error: No valid responses from any peers. 1 peer error responses:
+    peer=peer0.orga.com, status=500, message=Project already exists</pre></section>
+  </div></section>
+<section class="group"><div class="group-hd"><div><h2>Function 2: CER Accounting</h2><p>CER calculation, unit-level query, invalid energy-type rejection, and block-level confirmation.</p></div></div><div class="evidence-stack">
+    <section class="block-card">
+    <div class="block-title"><h3>CER Accounting Block Summary</h3><span>Block-level evidence decoded from Fabric ledger</span></div>
+    <div class="block-grid">
+      <div><span>Height change</span><strong>4 -> 5</strong></div>
+      <div><span>Block number</span><strong>4</strong></div>
+      <div><span>Channel</span><strong>mychannel</strong></div>
+      <div><span>Timestamp</span><strong class="mono">2026-05-27T07:09:12.071Z</strong></div>
+      <div class="wide"><span>Current block hash</span><strong class="mono">0j3YU7AACX2733+4nS4kZf9mxdC44w2mk9YybJBHT0M=</strong></div>
+      <div class="wide"><span>Previous block hash</span><strong class="mono">7VcNQ8imvHXBPC3Hcea19kg3cCQVvUQFvOt7UaYjVKo=</strong></div>
+      <div class="wide"><span>Transaction ID</span><strong class="mono">0cbc91e5ccd6babfe3ca4ba43f574d1003c0c7725020be8b84cd35a79a53617f</strong></div>
+      <div class="wide"><span>Data hash</span><strong class="mono">imqpI/KrFDchg0CQRI/qK9FavoRPgwF1zjl34Dm9C9Y=</strong></div>
+    </div>
+  </section>
+    <section class="source-card dense"><div class="source-title"><h3>CER Input Evidence</h3><span>input provenance</span></div><div class="source-grid"><div><span>Input file</span><strong>energy_valid.json</strong></div><div><span>Records parsed</span><strong>2,000 units</strong></div><div><span>Chaincode function</span><strong>EmissionReduction</strong></div><div><span>Validation input</span><strong>energy_invalid_type.json</strong></div></div></section>
+    <section class="parsed-card"><div class="source-title"><h3>CER SDK Output Payload</h3><span>emission_reduction_valid.log</span></div>
+    <div class="parsed-stats">
+      <div><span>Parsed records</span><strong>2,000</strong></div>
+      <div><span>Total CER</span><strong>48.56 tCO2e</strong></div>
+      <div><span>Gas / electricity records</span><strong>1,000 / 1,000</strong></div>
+      <div><span>Figure output</span><strong>first 6 JSON records</strong></div>
+    </div>
+    <div class="payload-log"><div class="cmd">payload from emission_reduction_valid.log</div><pre>{&quot;unit_id&quot;:1,&quot;accounting_time&quot;:&quot;2025-11-15&quot;,&quot;energy_type&quot;:&quot;gas&quot;,&quot;emission_reduction&quot;:33600}
+{&quot;unit_id&quot;:2,&quot;accounting_time&quot;:&quot;2025-11-15&quot;,&quot;energy_type&quot;:&quot;gas&quot;,&quot;emission_reduction&quot;:29400}
+{&quot;unit_id&quot;:3,&quot;accounting_time&quot;:&quot;2025-11-15&quot;,&quot;energy_type&quot;:&quot;gas&quot;,&quot;emission_reduction&quot;:25200}
+{&quot;unit_id&quot;:4,&quot;accounting_time&quot;:&quot;2025-11-15&quot;,&quot;energy_type&quot;:&quot;gas&quot;,&quot;emission_reduction&quot;:21000}
+{&quot;unit_id&quot;:5,&quot;accounting_time&quot;:&quot;2025-11-15&quot;,&quot;energy_type&quot;:&quot;gas&quot;,&quot;emission_reduction&quot;:16800}
+{&quot;unit_id&quot;:6,&quot;accounting_time&quot;:&quot;2025-11-15&quot;,&quot;energy_type&quot;:&quot;electricity&quot;,&quot;emission_reduction&quot;:35040}
+... 1994 additional records omitted from figure view</pre></div>
+  </section>
+    <section class="check-card"><div class="source-title"><h3>CER Query and Validation Results</h3><span>validation checks</span></div><div class="checks"><div><span>Unit-level query</span><strong>Unit 1 = 0.0336 tCO2e; QueryEmissionResult confirmed</strong></div><div><span>Invalid input rejection</span><strong>Rejected invalid energy_type = steam; expected failure captured</strong></div></div></section>
+  </div></section>
+<section class="group"><div class="group-hd"><div><h2>Function 3: Revenue Allocation</h2><p>Carbon-price-based revenue estimation, stored-record query, manual-input rejection, and block-level confirmation.</p></div></div><div class="evidence-stack">
+    <section class="block-card">
+    <div class="block-title"><h3>Revenue Allocation Block Summary</h3><span>Block-level evidence decoded from Fabric ledger</span></div>
+    <div class="block-grid">
+      <div><span>Height change</span><strong>5 -> 6</strong></div>
+      <div><span>Block number</span><strong>5</strong></div>
+      <div><span>Channel</span><strong>mychannel</strong></div>
+      <div><span>Timestamp</span><strong class="mono">2026-05-27T07:16:19.732Z</strong></div>
+      <div class="wide"><span>Current block hash</span><strong class="mono">wzAvxKgvldgf0GV6ghA6aIFcCuo+O+sigU8c05UGJhs=</strong></div>
+      <div class="wide"><span>Previous block hash</span><strong class="mono">0j3YU7AACX2733+4nS4kZf9mxdC44w2mk9YybJBHT0M=</strong></div>
+      <div class="wide"><span>Transaction ID</span><strong class="mono">d577c66ad542c5f4d4a67a8a4f209782a4c73fd8ef74a0654263d1b84443d015</strong></div>
+      <div class="wide"><span>Data hash</span><strong class="mono">L0tOm2L+zK2hMAI97wld7Zw4wZXHPQ2G4/hG2Vjogdk=</strong></div>
+    </div>
+  </section>
+    <section class="source-card dense"><div class="source-title"><h3>Revenue Computation Evidence</h3><span>input provenance</span></div><div class="source-grid"><div><span>On-chain source</span><strong>lastEmissionResults</strong></div><div><span>Total CER</span><strong>48.56 tCO2e</strong></div><div><span>Carbon price</span><strong>68 CNY/credit</strong></div><div><span>Total revenue</span><strong>3,302.08 CNY</strong></div></div></section>
+    <section class="parsed-card"><div class="source-title"><h3>Revenue SDK Output Payload</h3><span>revenue_allocation_valid.log</span></div>
+    <div class="parsed-stats">
+      <div><span>Total CER source</span><strong>48.56 tCO2e</strong></div>
+      <div><span>Carbon price</span><strong>68 CNY/credit</strong></div>
+      <div><span>Total revenue</span><strong>3,302.08 CNY</strong></div>
+      <div><span>Participant pool</span><strong>2,971.87 CNY</strong></div>
+    </div>
+    <div class="payload-log"><div class="cmd">payload from revenue_allocation_valid.log</div><pre>{&quot;unit_id&quot;:&quot;FM&quot;,&quot;revenue_time&quot;:&quot;2025-11-19&quot;,&quot;revenue&quot;:330.208000000001}
+{&quot;unit_id&quot;:&quot;1&quot;,&quot;revenue_time&quot;:&quot;2025-11-19&quot;,&quot;revenue&quot;:2.05632}
+{&quot;unit_id&quot;:&quot;2&quot;,&quot;revenue_time&quot;:&quot;2025-11-19&quot;,&quot;revenue&quot;:1.7992799999999998}
+{&quot;unit_id&quot;:&quot;3&quot;,&quot;revenue_time&quot;:&quot;2025-11-19&quot;,&quot;revenue&quot;:1.5422399999999998}
+{&quot;unit_id&quot;:&quot;4&quot;,&quot;revenue_time&quot;:&quot;2025-11-19&quot;,&quot;revenue&quot;:1.2852}
+{&quot;unit_id&quot;:&quot;5&quot;,&quot;revenue_time&quot;:&quot;2025-11-19&quot;,&quot;revenue&quot;:1.02816}
+... 1995 additional records omitted from figure view</pre></div>
+  </section>
+    <section class="check-card"><div class="source-title"><h3>Revenue Query and Validation Results</h3><span>validation checks</span></div><div class="checks"><div><span>FM revenue query</span><strong>FM fee = 330.21 CNY; QueryRevenueRecord confirmed</strong></div><div><span>Manual input rejection</span><strong>Rejected manual revenue argument; revenue is computed from CER and carbon price</strong></div></div></section>
+  </div></section>
+</main>
+</body>
+</html>
