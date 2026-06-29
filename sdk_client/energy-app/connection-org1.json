@@ -1,0 +1,48 @@
+{
+  "name": "pbft-orga-network",
+  "version": "1.0.0",
+  "client": {
+    "organization": "OrgA",
+    "connection": {
+      "timeout": {
+        "peer": {
+          "endorser": "300"
+        },
+        "orderer": "300"
+      }
+    }
+  },
+  "channels": {
+    "mychannel": {
+      "orderers": [
+        "orderer1.yzm.com"
+      ],
+      "peers": {
+        "peer0.orga.com": {
+          "endorsingPeer": true,
+          "chaincodeQuery": true,
+          "ledgerQuery": true,
+          "eventSource": true
+        }
+      }
+    }
+  },
+  "organizations": {
+    "OrgA": {
+      "mspid": "OrgAMSP",
+      "peers": [
+        "peer0.orga.com"
+      ]
+    }
+  },
+  "orderers": {
+    "orderer1.yzm.com": {
+      "url": "grpc://localhost:6051"
+    }
+  },
+  "peers": {
+    "peer0.orga.com": {
+      "url": "grpc://localhost:7051"
+    }
+  }
+}
