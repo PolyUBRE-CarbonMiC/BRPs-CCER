@@ -1,0 +1,25 @@
+test:
+  name: pbft-transfer-baseline
+  description: Transfer control workload for network and ledger-write baseline
+  workers:
+    type: local
+    number: 5
+
+  rounds:
+  - label: open
+    description: Initialize account states for Transfer baseline
+    txNumber: 2000
+    rateControl:
+      type: fixed-rate
+      opts:
+        tps: 100
+    callback: ../chaincode/demo/callback/Open.js
+
+  - label: transfer
+    description: Single account-to-account transfer per invocation
+    txNumber: 2000
+    rateControl:
+      type: fixed-rate
+      opts:
+        tps: 100
+    callback: ../chaincode/demo/callback/Transfer.js

@@ -1,0 +1,16 @@
+test:
+  name: pbft-trading-aggregation
+  description: Trading workload for aggregation/no-aggregation comparison
+  workers:
+    type: local
+    number: 5
+
+  rounds:
+  - label: Trading
+    description: Trading
+    txNumber: 2000
+    rateControl:
+      type: fixed-rate
+      opts:
+        tps: 100
+    callback: ../chaincode/demo/callback/Trading.js
